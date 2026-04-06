@@ -1,0 +1,12 @@
+# Ignorar todas as pastas de skills não publicadas
+ai-prompter/
+esperanto/
+gamma-slides/
+surrealdb-queries/
+writing-documentation/
+
+# Binários de skill
+md-to-docx/md-to-docx.skill
+
+# OS
+.DS_Store
