@@ -1,0 +1,143 @@
+{
+  "professora": "ANGELA DOS SANTOS PRADO",
+  "turma": "3º ANO - A",
+  "ano_letivo": 2025,
+  "notas": "Grade fixa para o ano letivo. Matérias especiais (Ed. Física, Arte, Bilíngue, Cultura Maker, Cultura Geral) não precisam de detalhamento de conteúdo.",
+  "materias_especiais": ["ED. FÍSICA", "ARTE", "BILÍNGUE", "CULT. MAKER", "CULT. GERAL"],
+  "professor_ed_fisica": "Professora Bárbara",
+  "grade": {
+    "SEGUNDA": {
+      "dia_label": "SEGUNDA-FEIRA",
+      "aulas": [
+        {"numero": "1ª", "componente": "LING. PORT.", "horario": "07h10-07h55"},
+        {"numero": "2ª", "componente": "HISTÓRIA", "horario": "07h55-08h40"},
+        {"numero": "3ª", "componente": "CIÊNCIAS", "horario": "09h-09h45"},
+        {"numero": "4ª", "componente": "ED. FÍSICA", "horario": "09h45-10h30"},
+        {"numero": "5ª", "componente": "MATEMÁTICA", "horario": "10h30-11h15"}
+      ]
+    },
+    "TERCA": {
+      "dia_label": "TERÇA-FEIRA",
+      "aulas": [
+        {"numero": "1ª", "componente": "LING. PORT.", "horario": "07h10-07h55"},
+        {"numero": "2ª", "componente": "ENSINO REL.", "horario": "07h55-08h40"},
+        {"numero": "3ª", "componente": "BILÍNGUE", "horario": "09h-09h45"},
+        {"numero": "4ª", "componente": "BILÍNGUE", "horario": "09h45-10h30"},
+        {"numero": "5ª", "componente": "ARTE", "horario": "10h30-11h15"}
+      ]
+    },
+    "QUARTA": {
+      "dia_label": "QUARTA-FEIRA",
+      "aulas": [
+        {"numero": "1ª", "componente": "CIÊNCIAS", "horario": "07h10-07h55"},
+        {"numero": "2ª", "componente": "CULT. MAKER", "horario": "07h55-08h40"},
+        {"numero": "3ª", "componente": "BILÍNGUE", "horario": "09h-09h45"},
+        {"numero": "4ª", "componente": "LING. PORT.", "horario": "09h45-10h30"},
+        {"numero": "5ª", "componente": "GEOGRAFIA", "horario": "10h30-11h15"}
+      ]
+    },
+    "QUINTA": {
+      "dia_label": "QUINTA-FEIRA",
+      "aulas": [
+        {"numero": "1ª", "componente": "LING. PORT.", "horario": "07h10-07h55"},
+        {"numero": "2ª", "componente": "BILÍNGUE", "horario": "07h55-08h40"},
+        {"numero": "3ª", "componente": "ENSINO REL.", "horario": "09h-09h45"},
+        {"numero": "4ª", "componente": "MATEMÁTICA", "horario": "09h45-10h30"},
+        {"numero": "5ª", "componente": "HISTÓRIA", "horario": "10h30-11h15"}
+      ]
+    },
+    "SEXTA": {
+      "dia_label": "SEXTA-FEIRA",
+      "aulas": [
+        {"numero": "1ª", "componente": "BILÍNGUE", "horario": "07h10-07h55"},
+        {"numero": "2ª", "componente": "CULT. GERAL", "horario": "07h55-08h40"},
+        {"numero": "3ª", "componente": "GEOGRAFIA", "horario": "09h-09h45"},
+        {"numero": "4ª", "componente": "MATEMÁTICA", "horario": "09h45-10h30"},
+        {"numero": "5ª", "componente": "LING. PORT.", "horario": "10h30-11h15"}
+      ]
+    }
+  },
+  "contagem_aulas_semanais": {
+    "LING. PORT.": 5,
+    "MATEMÁTICA": 3,
+    "CIÊNCIAS": 2,
+    "HISTÓRIA": 2,
+    "GEOGRAFIA": 2,
+    "ENSINO REL.": 2,
+    "ED. FÍSICA": 1,
+    "ARTE": 1,
+    "BILÍNGUE": 5,
+    "CULT. MAKER": 1,
+    "CULT. GERAL": 1
+  },
+  "duracao_aula_minutos": 45,
+  "composicao_diaria": {
+    "SEGUNDA": {
+      "core": ["LING. PORT.", "HISTÓRIA", "CIÊNCIAS", "MATEMÁTICA"],
+      "especiais": ["ED. FÍSICA"],
+      "qtd_core": 4,
+      "qtd_especiais": 1,
+      "nota": "Dia mais denso em core. 4 matérias diferentes da Angela no mesmo dia."
+    },
+    "TERCA": {
+      "core": ["LING. PORT.", "ENSINO REL."],
+      "especiais": ["BILÍNGUE", "BILÍNGUE", "ARTE"],
+      "qtd_core": 2,
+      "qtd_especiais": 3,
+      "nota": "Dia mais leve em core. Apenas 2 matérias da Angela — ideal para atividades que demandam mais tempo de produção."
+    },
+    "QUARTA": {
+      "core": ["CIÊNCIAS", "LING. PORT.", "GEOGRAFIA"],
+      "especiais": ["CULT. MAKER", "BILÍNGUE"],
+      "qtd_core": 3,
+      "qtd_especiais": 2,
+      "nota": "Dia equilibrado. LP fica no 4º horário (após intervalo)."
+    },
+    "QUINTA": {
+      "core": ["LING. PORT.", "ENSINO REL.", "MATEMÁTICA", "HISTÓRIA"],
+      "especiais": ["BILÍNGUE"],
+      "qtd_core": 4,
+      "qtd_especiais": 1,
+      "nota": "Dia denso em core como segunda. Ens. Rel. e História no mesmo dia."
+    },
+    "SEXTA": {
+      "core": ["GEOGRAFIA", "MATEMÁTICA", "LING. PORT."],
+      "especiais": ["BILÍNGUE", "CULT. GERAL"],
+      "qtd_core": 3,
+      "qtd_especiais": 2,
+      "nota": "LP fica no último horário (5ª aula). Evitar atividades muito longas nesse slot."
+    }
+  },
+  "distribuicao_semanal_por_materia": {
+    "LING. PORT.": {
+      "slots_semana": ["SEG 1ª", "TER 1ª", "QUA 4ª", "QUI 1ª", "SEX 5ª"],
+      "slots_quinzena": 10,
+      "nota": "Matéria com mais aulas. Percursos costumam ter 8-16 aulas por capítulo."
+    },
+    "MATEMÁTICA": {
+      "slots_semana": ["SEG 5ª", "QUI 4ª", "SEX 4ª"],
+      "slots_quinzena": 6,
+      "nota": "3 aulas/semana. Percursos costumam ter 6-12 aulas por capítulo."
+    },
+    "CIÊNCIAS": {
+      "slots_semana": ["SEG 3ª", "QUA 1ª"],
+      "slots_quinzena": 4,
+      "nota": "2 aulas/semana. Aulas sempre no início do dia."
+    },
+    "HISTÓRIA": {
+      "slots_semana": ["SEG 2ª", "QUI 5ª"],
+      "slots_quinzena": 4,
+      "nota": "2 aulas/semana. Segunda de manhã cedo, quinta no final."
+    },
+    "GEOGRAFIA": {
+      "slots_semana": ["QUA 5ª", "SEX 3ª"],
+      "slots_quinzena": 4,
+      "nota": "2 aulas/semana."
+    },
+    "ENSINO REL.": {
+      "slots_semana": ["TER 2ª", "QUI 3ª"],
+      "slots_quinzena": 4,
+      "nota": "2 aulas/semana."
+    }
+  }
+}

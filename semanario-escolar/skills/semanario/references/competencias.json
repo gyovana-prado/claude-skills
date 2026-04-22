@@ -1,0 +1,276 @@
+{
+  "versao": "1.0",
+  "notas": "Banco de competências reutilizáveis. Organizado por matéria > bimestre > capítulo. Cada competência tem: codigo_cpb, codigo_bncc, descricao, categoria.",
+  "materias": {
+    "LING. PORT.": {
+      "bimestre_2": {
+        "capitulo_4": {
+          "titulo": "A ARTE DA VIDA",
+          "categorias": {
+            "Oralidade": [
+              {
+                "codigo_cpb": "12",
+                "codigo_bncc": "EF35LP20",
+                "descricao": "Expor trabalhos ou pesquisas escolares em sala de aula, com apoio de recursos multissemióticos (imagens, diagrama, tabelas), orientando-se por roteiro escrito, planejando o tempo de fala e adequando a linguagem à situação comunicativa.",
+                "texto_completo": "(12) (EF35LP20) Expor trabalhos ou pesquisas escolares em sala de aula, com apoio de recursos multissemióticos (imagens, diagrama, tabelas), orientando-se por roteiro escrito, planejando o tempo de fala e adequando a linguagem à situação comunicativa."
+              },
+              {
+                "codigo_cpb": "06",
+                "codigo_bncc": "EF15LP12",
+                "descricao": "Atribuir significado a aspectos não linguísticos (paralinguísticos) observados na fala, como direção do olhar, riso, gestos, movimentos da cabeça (de concordância ou discordância), expressão corporal, tom de voz.",
+                "texto_completo": "(06) (EF15LP12) Atribuir significado a aspectos não linguísticos (paralinguísticos) observados na fala, como direção do olhar, riso, gestos, movimentos da cabeça (de concordância ou discordância), expressão corporal, tom de voz."
+              }
+            ],
+            "Leitura": [
+              {
+                "codigo_cpb": "",
+                "codigo_bncc": "EF15LP02",
+                "descricao": "Estabelecer expectativas em relação ao texto que vai ler (pressuposições antecipadoras dos sentidos, da forma e da função social do texto), apoiando-se em seus conhecimentos prévios sobre as condições de produção e recepção desse texto, o gênero, o suporte e o universo temático, bem como sobre saliências textuais, recursos gráficos, imagens, dados da própria obra (índice, prefácio etc.), confirmando antecipações e inferências realizadas antes e durante a leitura de textos, checando a adequação das hipóteses realizadas.",
+                "texto_completo": "(EF15LP02) Estabelecer expectativas em relação ao texto que vai ler..."
+              },
+              {
+                "codigo_cpb": "",
+                "codigo_bncc": "EF15LP15",
+                "descricao": "Reconhecer que os textos literários fazem parte do mundo do imaginário e apresentam uma dimensão lúdica, de encantamento, valorizando-os, em sua diversidade cultural, como patrimônio artístico da humanidade.",
+                "texto_completo": "(EF15LP15) Reconhecer que os textos literários fazem parte do mundo do imaginário e apresentam uma dimensão lúdica, de encantamento, valorizando-os, em sua diversidade cultural, como patrimônio artístico da humanidade."
+              },
+              {
+                "codigo_cpb": "19",
+                "codigo_bncc": "EF03LP12",
+                "descricao": "Ler e compreender, com autonomia, cartas pessoais e diários com expressão de sentimentos e opiniões, dentre outros gêneros do campo da vida cotidiana, de acordo com as convenções do gênero carta e considerando a situação comunicativa e o tema/assunto do texto.",
+                "texto_completo": "(19) (EF03LP12) Ler e compreender, com autonomia, cartas pessoais e diários com expressão de sentimentos e opiniões..."
+              },
+              {
+                "codigo_cpb": "",
+                "codigo_bncc": "EF15LP18",
+                "descricao": "Relacionar texto com ilustrações e outros recursos gráficos.",
+                "texto_completo": "(EF15LP18) Relacionar texto com ilustrações e outros recursos gráficos."
+              }
+            ],
+            "Análise linguística": [
+              {
+                "codigo_cpb": "",
+                "codigo_bncc": "EF02LP07",
+                "descricao": "Escrever palavras, frases, textos curtos nas formas imprensa e cursiva.",
+                "texto_completo": "(EF02LP07) Escrever palavras, frases, textos curtos nas formas imprensa e cursiva."
+              },
+              {
+                "codigo_cpb": "",
+                "codigo_bncc": "EF03LP04",
+                "descricao": "Usar acento gráfico (agudo ou circunflexo) em monossílabos tônicos terminados em a, e, o.",
+                "texto_completo": "(EF03LP04) Usar acento gráfico (agudo ou circunflexo) em monossílabos tônicos terminados em a, e, o."
+              },
+              {
+                "codigo_cpb": "",
+                "codigo_bncc": "EF03LP10",
+                "descricao": "Reconhecer partes produtivas na formação de palavras. (adaptado)",
+                "texto_completo": "(EF03LP10) Reconhecer partes produtivas na formação de palavras. (adaptado)"
+              }
+            ],
+            "Produção de textos": [
+              {
+                "codigo_cpb": "",
+                "codigo_bncc": "EF15LP07",
+                "descricao": "Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.",
+                "texto_completo": "(EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital."
+              },
+              {
+                "codigo_cpb": "47",
+                "codigo_bncc": "EF35LP09",
+                "descricao": "Organizar o texto em unidades de sentido, dividindo-o em parágrafos segundo as normas gráficas e de acordo com as características do gênero textual.",
+                "texto_completo": "(47) (EF35LP09) Organizar o texto em unidades de sentido, dividindo-o em parágrafos segundo as normas gráficas e de acordo com as características do gênero textual."
+              },
+              {
+                "codigo_cpb": "59",
+                "codigo_bncc": "EF15LP06",
+                "descricao": "Reler e revisar o texto produzido, com a ajuda do professor e a colaboração dos colegas, para corrigi-lo e aprimorá-lo fazendo cortes, acréscimos, reformulações, correções de ortografia e pontuação.",
+                "texto_completo": "(59) (EF15LP06) Reler e revisar o texto produzido, com a ajuda do professor e a colaboração dos colegas, para corrigi-lo e aprimorá-lo fazendo cortes, acréscimos, reformulações, correções de ortografia e pontuação."
+              },
+              {
+                "codigo_cpb": "57",
+                "codigo_bncc": "EF35LP26",
+                "descricao": "Ler, compreender e escrever, com certa autonomia, narrativas que apresentem cenários e personagens, observando os elementos da estrutura narrativa: enredo, tempo, espaço, personagens, narrador e a construção dos discursos direto e indireto.",
+                "texto_completo": "(57) (EF35LP26) Ler, compreender e escrever, com certa autonomia, narrativas que apresentem cenários e personagens, observando os elementos da estrutura narrativa: enredo, tempo, espaço, personagens, narrador e a construção dos discursos direto e indireto."
+              }
+            ]
+          }
+        }
+      }
+    },
+    "CIÊNCIAS": {
+      "bimestre_2": {
+        "capitulo_4": {
+          "titulo": "Animais vertebrados e invertebrados",
+          "categorias": {
+            "Geral": [
+              {
+                "codigo_cpb": "09",
+                "codigo_bncc": "",
+                "descricao": "Classificar e organizar os animais em grupos de vertebrados e invertebrados.",
+                "texto_completo": "(09) Classificar e organizar os animais em grupos de vertebrados e invertebrados."
+              },
+              {
+                "codigo_cpb": "10",
+                "codigo_bncc": "",
+                "descricao": "Identificar semelhanças e diferenças entre os animais domésticos, da pecuária e silvestres, terrestres, aquáticos e aéreos.",
+                "texto_completo": "(10) Identificar semelhanças e diferenças entre os animais domésticos, da pecuária e silvestres, terrestres, aquáticos e aéreos."
+              },
+              {
+                "codigo_cpb": "13",
+                "codigo_bncc": "EF03CI06",
+                "descricao": "Comparar alguns animais e organizar grupos com base em características externas comuns (presença de penas, pelos, escamas, bico, garras, antenas, patas, etc.), classificando-os nos grandes grupos: peixes, anfíbios, répteis, aves e mamíferos.",
+                "texto_completo": "(13) (EF03CI06) Comparar alguns animais e organizar grupos com base em características externas comuns (presença de penas, pelos, escamas, bico, garras, antenas, patas, etc.), classificando-os nos grandes grupos: peixes, anfíbios, répteis, aves e mamíferos."
+              }
+            ]
+          }
+        }
+      }
+    },
+    "HISTÓRIA": {
+      "bimestre_2": {
+        "capitulo_4": {
+          "titulo": "Formação da cidade e fenômenos migratórios",
+          "categorias": {
+            "Geral": [
+              {
+                "codigo_cpb": "",
+                "codigo_bncc": "EF03HI01",
+                "descricao": "Identificar os grupos populacionais que formam a cidade, o município e a região, as relações estabelecidas entre eles e os eventos que marcam a formação da cidade, como fenômenos migratórios (vida rural/vida urbana), desmatamentos, estabelecimento de grandes empresas, etc.",
+                "texto_completo": "(EF03HI01) Identificar os grupos populacionais que formam a cidade, o município e a região, as relações estabelecidas entre eles e os eventos que marcam a formação da cidade, como fenômenos migratórios (vida rural/vida urbana), desmatamentos, estabelecimento de grandes empresas, etc."
+              }
+            ]
+          }
+        }
+      }
+    },
+    "GEOGRAFIA": {
+      "bimestre_2": {
+        "capitulo_4": {
+          "titulo": "Contribuições culturais e modos de vida",
+          "categorias": {
+            "Geral": [
+              {
+                "codigo_cpb": "01",
+                "codigo_bncc": "EF03GE02",
+                "descricao": "Identificar, em seus lugares de vivência, marcas de contribuição cultural e econômica de grupos de diferentes origens.",
+                "texto_completo": "(01) (EF03GE02) Identificar, em seus lugares de vivência, marcas de contribuição cultural e econômica de grupos de diferentes origens."
+              },
+              {
+                "codigo_cpb": "02",
+                "codigo_bncc": "EF03GE03",
+                "descricao": "Reconhecer os diferentes modos de vida de povos e comunidades tradicionais urbanas e rurais em distintos lugares e períodos.",
+                "texto_completo": "(02) (EF03GE03) Reconhecer os diferentes modos de vida de povos e comunidades tradicionais urbanas e rurais em distintos lugares e períodos."
+              }
+            ]
+          }
+        }
+      }
+    },
+    "ENSINO REL.": {
+      "bimestre_2": {
+        "capitulo_4": {
+          "titulo": "Relacionamento com Deus e família",
+          "categorias": {
+            "Geral": [
+              {
+                "codigo_cpb": "04",
+                "codigo_bncc": "",
+                "descricao": "Conhecer histórias de personagens bíblicos que andaram com Deus, identificando o fator fundamental desse relacionamento.",
+                "texto_completo": "(04) Conhecer histórias de personagens bíblicos que andaram com Deus, identificando o fator fundamental desse relacionamento."
+              },
+              {
+                "codigo_cpb": "08",
+                "codigo_bncc": "",
+                "descricao": "Perceber, por meio de narrativas bíblicas, que Deus concede liberdade de escolha a todas as pessoas, e isso as diferencia umas das outras.",
+                "texto_completo": "(08) Perceber, por meio de narrativas bíblicas, que Deus concede liberdade de escolha a todas as pessoas, e isso as diferencia umas das outras."
+              },
+              {
+                "codigo_cpb": "18",
+                "codigo_bncc": "",
+                "descricao": "Compreender a importância da cooperação, do exercício do amor, da tolerância e do cumprimento das responsabilidades entre os componentes da família como condição para que ela permaneça unida e feliz.",
+                "texto_completo": "(18) Compreender a importância da cooperação, do exercício do amor, da tolerância e do cumprimento das responsabilidades entre os componentes da família como condição para que ela permaneça unida e feliz."
+              },
+              {
+                "codigo_cpb": "19",
+                "codigo_bncc": "",
+                "descricao": "Concluir que a presença de Jesus contribui para uma família unida e feliz.",
+                "texto_completo": "(19) Concluir que a presença de Jesus contribui para uma família unida e feliz."
+              },
+              {
+                "codigo_cpb": "26",
+                "codigo_bncc": "",
+                "descricao": "Debater sobre o que significa ser luz do mundo (Mateus 5:13).",
+                "texto_completo": "(26) Debater sobre o que significa ser luz do mundo (Mateus 5:13)."
+              }
+            ]
+          }
+        }
+      }
+    },
+    "MATEMÁTICA": {
+      "bimestre_2": {
+        "capitulo_4": {
+          "titulo": "Adição e sequências numéricas",
+          "categorias": {
+            "Geral": [
+              {
+                "codigo_cpb": "07",
+                "codigo_bncc": "",
+                "descricao": "Demonstrar confiança na própria capacidade para elaborar estratégias pessoais diante das situações colocadas em sala de aula.",
+                "texto_completo": "(07) Demonstrar confiança na própria capacidade para elaborar estratégias pessoais diante das situações colocadas em sala de aula."
+              },
+              {
+                "codigo_cpb": "",
+                "codigo_bncc": "EF03MA03",
+                "descricao": "Construir e utilizar fatos básicos da adição para o cálculo mental ou escrito.",
+                "texto_completo": "(EF03MA03) Construir e utilizar fatos básicos da adição para o cálculo mental ou escrito."
+              },
+              {
+                "codigo_cpb": "",
+                "codigo_bncc": "EF03MA04",
+                "descricao": "Estabelecer a relação entre números naturais e pontos da reta numérica para utilizá-la na ordenação dos números naturais e também na construção de fatos da adição, relacionando-os com deslocamentos para a direita ou para a esquerda.",
+                "texto_completo": "(EF03MA04) Estabelecer a relação entre números naturais e pontos da reta numérica para utilizá-la na ordenação dos números naturais e também na construção de fatos da adição, relacionando-os com deslocamentos para a direita ou para a esquerda."
+              },
+              {
+                "codigo_cpb": "",
+                "codigo_bncc": "EF03MA05",
+                "descricao": "Exercitar o raciocínio lógico, o cálculo mental (cálculo exato), escrito e a estimativa (cálculo aproximado) por meio da resolução e elaboração de problemas que envolvam e explorem as ideias de adição (sem e com reagrupamento), utilizando registros formais e não formais.",
+                "texto_completo": "(EF03MA05 adaptado) Exercitar o raciocínio lógico, o cálculo mental (cálculo exato), escrito e a estimativa (cálculo aproximado) por meio da resolução e elaboração de problemas que envolvam e explorem as ideias de adição (sem e com reagrupamento), utilizando registros formais e não formais."
+              },
+              {
+                "codigo_cpb": "",
+                "codigo_bncc": "EF03MA06",
+                "descricao": "Resolver e elaborar problemas de adição com os significados de juntar e acrescentar quantidades, utilizando diferentes estratégias de cálculo exato ou aproximado, incluindo cálculo mental.",
+                "texto_completo": "(EF03MA06) Resolver e elaborar problemas de adição com os significados de juntar e acrescentar quantidades, utilizando diferentes estratégias de cálculo exato ou aproximado, incluindo cálculo mental."
+              },
+              {
+                "codigo_cpb": "13",
+                "codigo_bncc": "",
+                "descricao": "Utilizar o algoritmo usual como facilitador do cálculo da adição.",
+                "texto_completo": "(13) Utilizar o algoritmo usual como facilitador do cálculo da adição."
+              },
+              {
+                "codigo_cpb": "14",
+                "codigo_bncc": "",
+                "descricao": "Utilizar sinais convencionais (+, =) na escrita das operações de adição.",
+                "texto_completo": "(14) Utilizar sinais convencionais (+, =) na escrita das operações de adição."
+              },
+              {
+                "codigo_cpb": "",
+                "codigo_bncc": "EF03MA10",
+                "descricao": "Identificar regularidades em sequências ordenadas de números naturais, resultantes da realização de adições ou subtrações sucessivas, por um mesmo número, descrever uma regra de formação da sequência e determinar elementos faltantes ou seguintes.",
+                "texto_completo": "(EF03MA10) Identificar regularidades em sequências ordenadas de números naturais, resultantes da realização de adições ou subtrações sucessivas, por um mesmo número, descrever uma regra de formação da sequência e determinar elementos faltantes ou seguintes."
+              },
+              {
+                "codigo_cpb": "",
+                "codigo_bncc": "EF03MA11",
+                "descricao": "Compreender a ideia de igualdade para escrever diferentes sentenças de adições ou de subtrações de dois números naturais que resultem na mesma soma ou diferença.",
+                "texto_completo": "(EF03MA11) Compreender a ideia de igualdade para escrever diferentes sentenças de adições ou de subtrações de dois números naturais que resultem na mesma soma ou diferença."
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

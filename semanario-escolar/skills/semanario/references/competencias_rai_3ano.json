@@ -1,0 +1,1986 @@
+{
+  "fonte": "RAI 2024 - Referenciais curriculares da Rede Adventista para os anos iniciais do Ensino Fundamental",
+  "ano": "3º ano",
+  "ultima_atualizacao": "2026-04-16",
+  "materias": {
+    "lingua_portuguesa": {
+      "nome_display": "LING. PORT.",
+      "categorias": [
+        {
+          "nome": "Oralidade",
+          "objetos_conhecimento": [
+            {
+              "nome": "Contação de histórias",
+              "competencias": [
+                {
+                  "codigo": "EF15LP19",
+                  "tipo": "BNCC",
+                  "descricao": "Recontar, oralmente, com e sem apoio de imagem, textos literários lidos pelo professor.",
+                  "campos_atuacao": ["AL"]
+                }
+              ]
+            },
+            {
+              "nome": "Conversação espontânea",
+              "competencias": [
+                {
+                  "codigo": "EF15LP11",
+                  "tipo": "BNCC",
+                  "descricao": "Reconhecer características da conversação espontânea presencial, respeitando os turnos de fala, selecionando e utilizando, durante a conversação, formas de tratamento adequadas, de acordo com a situação e a posição do interlocutor.",
+                  "campos_atuacao": ["C", "VP"]
+                }
+              ]
+            },
+            {
+              "nome": "Oralidade em situação pública",
+              "competencias": [
+                {
+                  "codigo": "EF15LP09",
+                  "tipo": "BNCC",
+                  "descricao": "Expressar-se em situações de intercâmbio oral com clareza, preocupando-se em ser compreendido pelo interlocutor e usando a palavra com tom de voz audível, boa articulação e ritmo adequado.",
+                  "campos_atuacao": ["VP"]
+                }
+              ]
+            },
+            {
+              "nome": "Escuta atenta",
+              "competencias": [
+                {
+                  "codigo": "EF15LP20-EA",
+                  "tipo": "EA",
+                  "descricao": "Escutar, com atenção e respeito, falas de pessoas (dentro e fora do espaço escolar), formulando perguntas pertinentes ao assunto/tema e solicitando esclarecimentos sempre que necessário.",
+                  "campos_atuacao": ["C", "VP"]
+                }
+              ]
+            },
+            {
+              "nome": "Compreensão de textos orais",
+              "competencias": [
+                {
+                  "codigo": "EF35LP19",
+                  "tipo": "BNCC",
+                  "descricao": "Recuperar as ideias principais em situações formais de escuta de exposições, apresentações e palestras.",
+                  "campos_atuacao": ["C", "EP", "VP"]
+                }
+              ]
+            },
+            {
+              "nome": "Aspectos não linguísticos do ato da fala (linguagem gestual e corporal)",
+              "competencias": [
+                {
+                  "codigo": "EF15LP12",
+                  "tipo": "BNCC",
+                  "descricao": "Atribuir significado a aspectos não linguísticos (paralinguísticos) observados na fala, como direção do olhar, riso, gestos, movimentos da cabeça (de concordância ou discordância), expressão corporal, tom de voz.",
+                  "campos_atuacao": ["C", "AL", "VP"]
+                }
+              ]
+            },
+            {
+              "nome": "Registro oral (formal e informal)",
+              "competencias": [
+                {
+                  "codigo": "EF15LP13",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar finalidades da interação oral em diferentes contextos comunicativos (solicitar informações, apresentar opiniões, informar, relatar experiências).",
+                  "campos_atuacao": ["C", "VP", "EP"]
+                }
+              ]
+            },
+            {
+              "nome": "Forma de composição dos gêneros orais",
+              "competencias": [
+                {
+                  "codigo": "EF35LP10",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar gêneros do discurso oral, utilizados em diferentes situações e contextos comunicativos, e suas características linguístico-expressivas e composicionais (conversação espontânea, conversação telefônica, entrevistas pessoais, entrevistas no rádio ou na TV, debate, noticiário de rádio e TV, narração de jogos esportivos no rádio e na TV, aula, debate).",
+                  "campos_atuacao": ["C", "EP", "VP"]
+                }
+              ]
+            },
+            {
+              "nome": "Variação linguística",
+              "competencias": [
+                {
+                  "codigo": "EF35LP11",
+                  "tipo": "BNCC",
+                  "descricao": "Ouvir gravações, canções, textos falados em diferentes variedades linguísticas, identificando características regionais, urbanas e rurais da fala e respeitando tais variedades como especificidades do uso da língua por diferentes grupos regionais ou diferentes culturas locais, rejeitando preconceitos linguísticos.",
+                  "campos_atuacao": ["C"]
+                }
+              ]
+            },
+            {
+              "nome": "Planejamento e produção de texto oral (receitas culinárias)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP28-EA",
+                  "tipo": "EA",
+                  "descricao": "Planejar e produzir receitas culinárias em áudio ou vídeo.",
+                  "campos_atuacao": ["C", "VP", "EP"]
+                }
+              ]
+            },
+            {
+              "nome": "Planejamento e produção de texto oral (cartas e diários)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP13",
+                  "tipo": "BNCC",
+                  "descricao": "Planejar e produzir cartas pessoais e diários, com expressão de sentimentos e opiniões, dentre outros gêneros do campo da vida cotidiana, de acordo com as convenções dos gêneros carta e diário e considerando a situação comunicativa e o tema/assunto do texto.",
+                  "campos_atuacao": ["C", "VP", "EP"]
+                }
+              ]
+            },
+            {
+              "nome": "Planejamento e produção de texto oral (telejornal)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP22",
+                  "tipo": "BNCC",
+                  "descricao": "Planejar e produzir, em colaboração com os colegas, telejornal para público infantil com algumas notícias e textos de campanhas que possam ser repassados oralmente ou em meio digital, em áudio ou vídeo, considerando a situação comunicativa, a organização específica da fala nesses gêneros, o tema/assunto e a finalidade dos textos.",
+                  "campos_atuacao": ["C"]
+                }
+              ]
+            },
+            {
+              "nome": "Planejamento e produção de texto oral (exposição e pesquisa)",
+              "competencias": [
+                {
+                  "codigo": "EF35LP20",
+                  "tipo": "BNCC",
+                  "descricao": "Expor trabalhos ou pesquisas escolares em sala de aula, com apoio de recursos multissemióticos (imagens, diagrama, tabelas, etc.), orientando-se por roteiro escrito, planejando o tempo de fala e adequando a linguagem à situação comunicativa.",
+                  "campos_atuacao": ["EP"]
+                }
+              ]
+            },
+            {
+              "nome": "Declamação e performances orais (poemas)",
+              "competencias": [
+                {
+                  "codigo": "EF35LP28",
+                  "tipo": "BNCC",
+                  "descricao": "Declamar poemas com entonação, postura e interpretação adequadas.",
+                  "campos_atuacao": ["AL"]
+                }
+              ]
+            },
+            {
+              "nome": "Declamação e performances orais (cordel e embolada)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP27",
+                  "tipo": "BNCC",
+                  "descricao": "Recitar cordel e cantar repentes e emboladas, observando as rimas e obedecendo ao ritmo e à melodia.",
+                  "campos_atuacao": ["AL"]
+                }
+              ]
+            },
+            {
+              "nome": "Declamação e performances orais (poesias com marcas linguísticas)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP29-EA",
+                  "tipo": "EA",
+                  "descricao": "Declamar poesias e reconhecer as marcas linguísticas poéticas presentes em salmos e provérbios.",
+                  "campos_atuacao": ["AL"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Leitura",
+          "objetos_conhecimento": [
+            {
+              "nome": "Condições de produção e recepção de textos",
+              "competencias": [
+                {
+                  "codigo": "EF15LP01",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar a função social de textos que circulam em campos da vida social dos quais participa cotidianamente (a casa, a rua, a comunidade, a escola) e nas mídias impressa e digital, reconhecendo para que foram produzidos, onde circulam, quem os produziu e a quem se destinam.",
+                  "campos_atuacao": ["AL", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Estratégia de leitura (pressuposições)",
+              "competencias": [
+                {
+                  "codigo": "EF15LP02",
+                  "tipo": "BNCC",
+                  "descricao": "Estabelecer expectativas em relação ao texto que vai ler (pressuposições antecipadoras dos sentidos, da forma e da função social do texto), apoiando-se em seus conhecimentos prévios sobre as condições de produção e recepção desse texto, o gênero, o suporte e o tema, bem como sobre a forma textual, os recursos gráficos, as imagens, os dados da própria obra (índice, prefácio, etc.), confirmando antecipações e inferências realizadas antes e durante a leitura de textos, checando a adequação das hipóteses realizadas.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Estratégia de leitura (informações explícitas e implícitas)",
+              "competencias": [
+                {
+                  "codigo": "EF35LP32-EA",
+                  "tipo": "EA",
+                  "descricao": "Localizar informações explícitas e analisar ideias implícitas em textos.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Estratégia de leitura (recursos expressivos)",
+              "competencias": [
+                {
+                  "codigo": "EF15LP04",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar o efeito de sentido produzido pelo uso de recursos expressivos gráfico-visuais em textos multissemióticos.",
+                  "campos_atuacao": ["AL", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Estratégia de leitura (inferência)",
+              "competencias": [
+                {
+                  "codigo": "EF35LP05",
+                  "tipo": "BNCC",
+                  "descricao": "Inferir o sentido de palavras ou expressões desconhecidas em textos, com base no contexto da frase ou do texto.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Estratégia de leitura (continuidade textual)",
+              "competencias": [
+                {
+                  "codigo": "EF35LP06",
+                  "tipo": "BNCC",
+                  "descricao": "Recuperar relações entre partes de um texto, identificando substituições lexicais (de substantivos por sinônimos) ou pronominais (uso de pronomes anafóricos – pessoais, possessivos, demonstrativos) que contribuem para a continuidade do texto.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Leitura de imagens em narrativas visuais",
+              "competencias": [
+                {
+                  "codigo": "EF15LP14",
+                  "tipo": "BNCC",
+                  "descricao": "Construir o sentido de histórias em quadrinhos e tirinhas, relacionando imagens e palavras e interpretando recursos gráficos (onomatopeias, tipos de balão e de letra).",
+                  "campos_atuacao": ["AL", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Formação do leitor (apreciação estética) - dimensão lúdica",
+              "competencias": [
+                {
+                  "codigo": "EF15LP15",
+                  "tipo": "BNCC",
+                  "descricao": "Reconhecer que os textos literários fazem parte do mundo do imaginário e apresentam uma dimensão lúdica, de encantamento, valorizando-os, em sua diversidade cultural, como patrimônio artístico da humanidade.",
+                  "campos_atuacao": ["C", "AL"]
+                }
+              ]
+            },
+            {
+              "nome": "Formação do leitor (apreciação estética) - textos espirituais",
+              "competencias": [
+                {
+                  "codigo": "EF03LP30-EA",
+                  "tipo": "EA",
+                  "descricao": "Ler e analisar salmos, provérbios, letras de canções e outros textos voltados à formação espiritual.",
+                  "campos_atuacao": ["C", "AL"]
+                }
+              ]
+            },
+            {
+              "nome": "Formação do leitor (apreciação estética) - poemas visuais",
+              "competencias": [
+                {
+                  "codigo": "EF15LP17",
+                  "tipo": "BNCC",
+                  "descricao": "Apreciar poemas visuais e concretos, observando efeitos de sentido criados pelo formato do texto na página, pela distribuição e diagramação das letras, pelas ilustrações e por outros efeitos visuais.",
+                  "campos_atuacao": ["AL"]
+                }
+              ]
+            },
+            {
+              "nome": "Formação do leitor (apreciação estética) - textos literários",
+              "competencias": [
+                {
+                  "codigo": "EF35LP21",
+                  "tipo": "BNCC",
+                  "descricao": "Ler e compreender, de forma autônoma, textos literários de diferentes gêneros e extensões, inclusive aqueles sem ilustrações, estabelecendo preferências por gêneros, temas e autores.",
+                  "campos_atuacao": ["AL"]
+                }
+              ]
+            },
+            {
+              "nome": "Formação do leitor (apreciação estética) - diálogos",
+              "competencias": [
+                {
+                  "codigo": "EF35LP22",
+                  "tipo": "BNCC",
+                  "descricao": "Perceber diálogos em textos narrativos, observando o efeito de sentido de verbos de enunciação e, se for o caso, o uso de variedades linguísticas no discurso direto.",
+                  "campos_atuacao": ["AL"]
+                }
+              ]
+            },
+            {
+              "nome": "Formação do leitor (apreciação estética) - textos versificados",
+              "competencias": [
+                {
+                  "codigo": "EF35LP23",
+                  "tipo": "BNCC",
+                  "descricao": "Apreciar poemas e outros textos versificados, observando rimas, aliterações e diferentes modos de divisão dos versos, estrofes e refrões e seu efeito de sentido.",
+                  "campos_atuacao": ["AL"]
+                }
+              ]
+            },
+            {
+              "nome": "Formação do leitor (seleção de livros)",
+              "competencias": [
+                {
+                  "codigo": "EF35LP02",
+                  "tipo": "BNCC",
+                  "descricao": "Selecionar livros da biblioteca e/ou do cantinho de leitura da sala de aula e/ou disponíveis em meios digitais para leitura individual, justificando a escolha e compartilhando com os colegas sua opinião após a leitura.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Textos dramáticos",
+              "competencias": [
+                {
+                  "codigo": "EF35LP24",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar funções do texto dramático (escrito para ser encenado) e sua organização por meio de diálogos entre personagens e marcadores das falas das personagens e de cena.",
+                  "campos_atuacao": ["AL"]
+                }
+              ]
+            },
+            {
+              "nome": "Decodificação/fluência de leitura",
+              "competencias": [
+                {
+                  "codigo": "EF35LP33-EA",
+                  "tipo": "EA",
+                  "descricao": "Ler e compreender silenciosamente e, em seguida, em voz alta, com autonomia e fluência, diferentes gêneros textuais, analisando a finalidade e a estrutura do texto na prática de leitura.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Compreensão em leitura (ideia central)",
+              "competencias": [
+                {
+                  "codigo": "EF35LP03",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar a ideia central do texto, demonstrando compreensão global.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Compreensão em leitura (textos instrucionais)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP11",
+                  "tipo": "BNCC",
+                  "descricao": "Ler e compreender, com autonomia, textos instrucionais (receitas, instruções de montagem, etc.), com a estrutura própria desses textos (verbos imperativos, indicação de passos a serem seguidos) e mesclando palavras, imagens e recursos gráfico-visuais, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "campos_atuacao": ["C"]
+                }
+              ]
+            },
+            {
+              "nome": "Compreensão em leitura (cartas pessoais e diários)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP12",
+                  "tipo": "BNCC",
+                  "descricao": "Ler e compreender, com autonomia, cartas pessoais e diários com expressão de sentimentos e opiniões, dentre outros gêneros do campo da vida cotidiana, de acordo com as convenções do gênero carta e considerando a situação comunicativa e o tema/assunto do texto.",
+                  "campos_atuacao": ["C"]
+                }
+              ]
+            },
+            {
+              "nome": "Compreensão em leitura (textos devocionais)",
+              "competencias": [
+                {
+                  "codigo": "EF15LP21-EA",
+                  "tipo": "EA",
+                  "descricao": "Ler e compreender, em colaboração com os colegas, os familiares e os professores, textos devocionais, orações, conselhos, provérbios e outros textos cotidianos em prol do desenvolvimento espiritual.",
+                  "campos_atuacao": ["C"]
+                }
+              ]
+            },
+            {
+              "nome": "Compreensão em leitura (cartas de leitor)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP18",
+                  "tipo": "BNCC",
+                  "descricao": "Ler e compreender, com autonomia, cartas dirigidas a veículos da mídia impressa ou digital (cartas de leitor e de reclamação a jornais, revistas e notícias, dentre outros gêneros do campo jornalístico, de acordo com as convenções do gênero carta e considerando a situação comunicativa e o tema/assunto do texto.",
+                  "campos_atuacao": ["JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Compreensão em leitura (textos publicitários)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP19",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar e discutir o propósito do uso de recursos de persuasão (cores, imagens, escolha de palavras, jogo de palavras, tamanho de letras) em textos publicitários e de propaganda, como elementos de convencimento.",
+                  "campos_atuacao": ["JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Compreensão em leitura (relatos de observação)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP24",
+                  "tipo": "BNCC",
+                  "descricao": "Ler/ouvir e compreender, com autonomia, relatos de observações e de pesquisas em fontes de informações, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "campos_atuacao": ["EP"]
+                }
+              ]
+            },
+            {
+              "nome": "Pesquisa",
+              "competencias": [
+                {
+                  "codigo": "EF35LP17",
+                  "tipo": "BNCC",
+                  "descricao": "Buscar e selecionar, com o apoio do professor, informações de interesse sobre fenômenos sociais e naturais, em textos que circulam em meios impressos ou digitais.",
+                  "campos_atuacao": ["EP", "VP"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Análise linguística e semiótica",
+          "objetos_conhecimento": [
+            {
+              "nome": "Sistema alfabético e ortografia (dicionário)",
+              "competencias": [
+                {
+                  "codigo": "EF35LP12",
+                  "tipo": "BNCC",
+                  "descricao": "Recorrer ao dicionário para esclarecer dúvida sobre a escrita de palavras, especialmente no caso de palavras com relações irregulares de fonema-grafema.",
+                  "campos_atuacao": ["EP"]
+                }
+              ]
+            },
+            {
+              "nome": "Sistema alfabético e ortografia (correspondências regulares)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP31-EA",
+                  "tipo": "EA",
+                  "descricao": "Ler e escrever palavras com correspondências regulares contextuais entre grafemas e fonemas – C/QU; G/GU; R/RR; S/SS; O (e não U) e E (e não I) em sílaba átona em final de palavra – e com marcas de nasalidade (til, M, N).",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Sistema alfabético e ortografia (sílabas)",
+              "competencias": [
+                {
+                  "codigo": "EF02LP04",
+                  "tipo": "BNCC",
+                  "descricao": "Ler e escrever corretamente palavras com sílabas CV, V, CVC, CCV, VC, VV, CVV, identificando que existem vogais em todas as sílabas.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Sistema alfabético e ortografia (dígrafos)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP03",
+                  "tipo": "BNCC",
+                  "descricao": "Ler e escrever corretamente palavras com os dígrafos LH, NH, CH.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Sistema alfabético e ortografia (memorização)",
+              "competencias": [
+                {
+                  "codigo": "EF35LP13",
+                  "tipo": "BNCC",
+                  "descricao": "Memorizar a grafia de palavras de uso frequente, nas quais as relações fonema-grafema são irregulares e com H inicial, que não representa fonema.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Sistema alfabético e ortografia (sílaba tônica)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP06",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar a sílaba tônica em palavras, classificando-as em oxítonas, paroxítonas e proparoxítonas.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Acentuação",
+              "competencias": [
+                {
+                  "codigo": "EF03LP04",
+                  "tipo": "BNCC",
+                  "descricao": "Usar acento gráfico (agudo ou circunflexo) em monossílabos tônicos terminados em A, E, O e em palavras oxítonas terminadas em A, E, O, seguidas ou não de S.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Tonicidade",
+              "competencias": [
+                {
+                  "codigo": "EF03LP32-EA",
+                  "tipo": "EA",
+                  "descricao": "Analisar em textos de diferentes gêneros os usos linguísticos de palavras que possuam encontros vocálicos (ditongos, hiatos e tritongos).",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Classificação de palavras por número de sílabas",
+              "competencias": [
+                {
+                  "codigo": "EF03LP05",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar o número de sílabas de palavras, classificando-as em monossílabas, dissílabas, trissílabas e polissílabas.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP"]
+                }
+              ]
+            },
+            {
+              "nome": "Pontuação",
+              "competencias": [
+                {
+                  "codigo": "EF03LP07",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar a função na leitura e usar na escrita ponto-final, ponto de interrogação, ponto de exclamação e, em diálogos (discurso direto), dois-pontos e travessão.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Morfologia (substantivos e verbos)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP08",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar e diferenciar, em textos, substantivos e verbos e suas funções na oração: agente, ação, objeto da ação.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Morfologia (pronomes)",
+              "competencias": [
+                {
+                  "codigo": "EF35LP14",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar em textos e usar na produção textual pronomes pessoais, possessivos e demonstrativos, como recurso coesivo anafórico.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Morfologia (prefixos e sufixos)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP10",
+                  "tipo": "BNCC",
+                  "descricao": "Reconhecer prefixos e sufixos produtivos na formação de palavras derivadas de substantivos, de adjetivos e de verbos, utilizando-os para compreender palavras e para formar novas palavras.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Morfossintaxe (adjetivos)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP09",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar, em textos, adjetivos e sua função de atribuição de propriedades aos substantivos.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Forma de composição do texto (textos instrucionais)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP16",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar e reproduzir, em textos instrucionais (receitas, instruções de montagem, digitais ou impressos), a formatação própria desses textos (verbos imperativos, indicação de passos a serem seguidos) e a diagramação específica dos textos desses gêneros (lista de ingredientes ou materiais e instruções de execução – \"modo de fazer\").",
+                  "campos_atuacao": ["C", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Forma de composição do texto (gêneros epistolares)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP17",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar e reproduzir, em gêneros epistolares e diários, a formatação própria desses textos (relatos de acontecimentos, expressão de vivências, emoções, opiniões ou críticas) e a diagramação específica dos textos desses gêneros (data, saudação, corpo do texto, despedida, assinatura).",
+                  "campos_atuacao": ["C"]
+                }
+              ]
+            },
+            {
+              "nome": "Forma de composição do texto (notícias e cartas)",
+              "competencias": [
+                {
+                  "codigo": "EF35LP16",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar e reproduzir, em notícias, manchetes, lides e corpo de notícias simples para o público infantil e cartas de reclamação (revista infantil), digitais ou impressos, a formatação e a diagramação específica de cada um desses gêneros, inclusive em suas versões orais.",
+                  "campos_atuacao": ["C", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Forma de composição do texto (adjetivos em cartas)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP23",
+                  "tipo": "BNCC",
+                  "descricao": "Analisar o uso de adjetivos em cartas dirigidas a veículos da mídia impressa ou digital (cartas do leitor ou de reclamação a jornais ou revistas), digitais ou impressas.",
+                  "campos_atuacao": ["C", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Forma de composição do texto (relatórios)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP26",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar e reproduzir, em relatórios de observação e pesquisa, a formatação e a diagramação específica desses gêneros (passos ou listas de itens, tabelas, ilustrações, gráficos, resumo dos resultados).",
+                  "campos_atuacao": ["EP"]
+                }
+              ]
+            },
+            {
+              "nome": "Formas de composição de narrativas",
+              "competencias": [
+                {
+                  "codigo": "EF35LP29",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar, em narrativas, cenário, personagem central, conflito gerador, resolução e o ponto de vista com base no qual histórias são narradas, diferenciando narrativas em primeira e terceira pessoas.",
+                  "campos_atuacao": ["AL"]
+                }
+              ]
+            },
+            {
+              "nome": "Forma de composição de textos poéticos",
+              "competencias": [
+                {
+                  "codigo": "EF35LP31",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar, em textos versificados, efeitos de sentido decorrentes do uso de recursos rítmicos e sonoros e de metáforas.",
+                  "campos_atuacao": ["AL"]
+                }
+              ]
+            },
+            {
+              "nome": "Discurso direto e indireto",
+              "competencias": [
+                {
+                  "codigo": "EF35LP30",
+                  "tipo": "BNCC",
+                  "descricao": "Diferenciar discurso indireto de discurso direto, determinando o efeito de sentido de verbos de enunciação e explicando o uso de variedades linguísticas no discurso direto, quando for o caso.",
+                  "campos_atuacao": ["C", "VP"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Produção de textos",
+          "objetos_conhecimento": [
+            {
+              "nome": "Convenções da escrita",
+              "competencias": [
+                {
+                  "codigo": "EF35LP07",
+                  "tipo": "BNCC",
+                  "descricao": "Utilizar, ao produzir um texto, conhecimentos linguísticos, tais como ortografia, pontuação (ponto final, ponto de exclamação, ponto de interrogação, vírgulas em enumerações) e pontuação do discurso direto, quando for o caso.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Progressão temática e paragrafação",
+              "competencias": [
+                {
+                  "codigo": "EF35LP09",
+                  "tipo": "BNCC",
+                  "descricao": "Organizar o texto em unidades de sentido, dividindo-o em parágrafos segundo as normas gráficas e de acordo com as características do gênero textual.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Estabelecimento de relações anafóricas",
+              "competencias": [
+                {
+                  "codigo": "EF35LP08",
+                  "tipo": "BNCC",
+                  "descricao": "Utilizar, ao produzir um texto, recursos de referenciação (por substituição lexical ou por pronomes pessoais, possessivos e demonstrativos), vocabulário apropriado ao gênero, recursos de coesão pronominal (pronomes anafóricos) e articuladores de relações de sentido (tempo, causa, oposição, conclusão, comparação), com nível suficiente de informatividade.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Planejamento e escrita de texto (plano geral)",
+              "competencias": [
+                {
+                  "codigo": "EF15LP05",
+                  "tipo": "BNCC",
+                  "descricao": "Planejar, com a ajuda do professor, o texto que será produzido, considerando a situação comunicativa, os interlocutores (quem escreve/para quem escreve); a finalidade ou o propósito (para que escrever); a circulação (onde o texto vai circular); o suporte (qual é o portador do texto); a linguagem, a organização e a forma do texto e seu tema, pesquisando em meios impressos ou digitais, sempre que for preciso, informações necessárias à produção do texto, organizando em tópicos os dados e as fontes pesquisadas.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Planejamento e escrita de texto (cartas e diários)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP13",
+                  "tipo": "BNCC",
+                  "descricao": "Planejar e produzir cartas pessoais e diários com expressão de sentimentos e opiniões, dentre outros gêneros do campo da vida cotidiana, de acordo com as convenções dos gêneros carta e diário e considerando a situação comunicativa e o tema/assunto do texto.",
+                  "campos_atuacao": ["C"]
+                }
+              ]
+            },
+            {
+              "nome": "Planejamento e escrita de texto (textos devocionais)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP33-EA",
+                  "tipo": "EA",
+                  "descricao": "Planejar e produzir textos devocionais, orações, cartas com conselhos e outros textos cotidianos voltados à formação espiritual.",
+                  "campos_atuacao": ["C"]
+                }
+              ]
+            },
+            {
+              "nome": "Planejamento e escrita de texto (textos instrucionais)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP14",
+                  "tipo": "BNCC",
+                  "descricao": "Planejar e produzir textos instrucionais, com a estrutura própria desses textos (verbos imperativos, indicação de passos a serem seguidos) e mesclando palavras, imagens e recursos gráfico-visuais, considerando a situação comunicativa.",
+                  "campos_atuacao": ["C", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Planejamento e escrita de texto (cartas de leitor)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP20",
+                  "tipo": "BNCC",
+                  "descricao": "Produzir cartas dirigidas a veículos da mídia impressa ou digital (cartas do leitor ou de reclamação a jornais ou revistas), dentre outros gêneros com opiniões e críticas, de acordo com as convenções do gênero carta e considerando a situação comunicativa e o tema/assunto do texto.",
+                  "campos_atuacao": ["C"]
+                }
+              ]
+            },
+            {
+              "nome": "Planejamento e escrita de texto (anúncios publicitários)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP21",
+                  "tipo": "BNCC",
+                  "descricao": "Produzir anúncios publicitários, textos de campanhas de conscientização destinados ao público infantil, observando os recursos de persuasão utilizados nos textos publicitários e de propaganda (cores, imagens, slogan, escolha de palavras, jogo de palavras, tamanho de tipo de letras, diagramação).",
+                  "campos_atuacao": ["C", "VP"]
+                }
+              ]
+            },
+            {
+              "nome": "Planejamento e escrita de texto (argumentação)",
+              "competencias": [
+                {
+                  "codigo": "EF35LP15",
+                  "tipo": "BNCC",
+                  "descricao": "Opinar e defender ponto de vista sobre tema polêmico relacionado a situações vivenciadas na escola e/ou na comunidade, utilizando registro formal e estrutura adequada à argumentação, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "campos_atuacao": ["AL", "EP"]
+                }
+              ]
+            },
+            {
+              "nome": "Planejamento e escrita de texto (pesquisa)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP25",
+                  "tipo": "BNCC",
+                  "descricao": "Planejar e produzir textos para apresentar resultados de observações e de pesquisas em fontes de informações, incluindo, quando pertinente, imagens, diagramas e gráficos ou tabelas simples, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "campos_atuacao": ["EP"]
+                }
+              ]
+            },
+            {
+              "nome": "Escrita autônoma (narrativas ficcionais)",
+              "competencias": [
+                {
+                  "codigo": "EF35LP25",
+                  "tipo": "BNCC",
+                  "descricao": "Criar narrativas ficcionais, com certa autonomia, utilizando detalhes descritivos, sequências de eventos e imagens apropriadas para sustentar o sentido do texto, e marcadores de tempo, espaço e de fala de personagens.",
+                  "campos_atuacao": ["AL"]
+                }
+              ]
+            },
+            {
+              "nome": "Escrita autônoma (narrativas com estrutura)",
+              "competencias": [
+                {
+                  "codigo": "EF35LP26",
+                  "tipo": "BNCC",
+                  "descricao": "Ler, compreender e escrever, com certa autonomia, narrativas que apresentem cenários e personagens, observando os elementos da estrutura narrativa: enredo, tempo, espaço, personagens, narrador e a construção dos discursos direto e indireto.",
+                  "campos_atuacao": ["AL"]
+                }
+              ]
+            },
+            {
+              "nome": "Escrita autônoma (reescrita de narrativas)",
+              "competencias": [
+                {
+                  "codigo": "EF03LP34-EA",
+                  "tipo": "EA",
+                  "descricao": "Reescrever narrativas bíblicas conhecidas, adequando a linguagem ao público-leitor.",
+                  "campos_atuacao": ["AL"]
+                }
+              ]
+            },
+            {
+              "nome": "Escrita autônoma (textos poéticos)",
+              "competencias": [
+                {
+                  "codigo": "EF35LP27",
+                  "tipo": "BNCC",
+                  "descricao": "Ler, compreender e escrever, com certa autonomia, textos em versos, explorando rimas, sons e jogos de palavras, imagens poéticas (sentidos figurados) e recursos visuais e sonoros.",
+                  "campos_atuacao": ["AL"]
+                }
+              ]
+            },
+            {
+              "nome": "Revisão de textos",
+              "competencias": [
+                {
+                  "codigo": "EF15LP06",
+                  "tipo": "BNCC",
+                  "descricao": "Reler e revisar o texto produzido, com a ajuda do professor e a colaboração dos colegas, para corrigi-lo e aprimorá-lo, fazendo cortes, acréscimos, reformulações, correções de ortografia e pontuação.",
+                  "campos_atuacao": ["VP"]
+                }
+              ]
+            },
+            {
+              "nome": "Edição de textos",
+              "competencias": [
+                {
+                  "codigo": "EF15LP07",
+                  "tipo": "BNCC",
+                  "descricao": "Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.",
+                  "campos_atuacao": ["C", "AL", "EP", "VP", "JM"]
+                }
+              ]
+            },
+            {
+              "nome": "Utilização de tecnologia digital",
+              "competencias": [
+                {
+                  "codigo": "EF15LP08",
+                  "tipo": "BNCC",
+                  "descricao": "Utilizar software, inclusive programas de edição de texto, para editar e publicar os textos produzidos, explorando os recursos multissemióticos disponíveis.",
+                  "campos_atuacao": ["JM"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "matematica": {
+      "nome_display": "MATEMÁTICA",
+      "categorias": [
+        {
+          "nome": "Números",
+          "objetos_conhecimento": [
+            {
+              "nome": "Leitura, escrita, comparação e ordenação de números naturais de quatro ordens",
+              "competencias": [
+                {
+                  "codigo": "EF03MA01",
+                  "tipo": "BNCC",
+                  "descricao": "Ler, escrever e comparar números naturais de até a ordem de unidade de milhar, estabelecendo relações entre os registros numéricos e em língua materna.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Composição e decomposição de números naturais. Sistema de numeração decimal (unidade, dezena, centena e milhar)",
+              "competencias": [
+                {
+                  "codigo": "EF03MA02",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar características do sistema de numeração decimal, utilizando a composição e a decomposição de número natural de até quatro ordens.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03MA02.1-EA",
+                  "tipo": "EA",
+                  "descricao": "Utilizar recursos diversos (ábaco, material dourado, quadro valor de lugar, reta numerada, quadro numérico, fichas sobrepostas, etc.) como estratégias para a compreensão das características do sistema de numeração decimal.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Números naturais na reta numerada",
+              "competencias": [
+                {
+                  "codigo": "EF03MA04",
+                  "tipo": "BNCC",
+                  "descricao": "Estabelecer a relação entre números naturais e pontos da reta numérica para utilizá-la na ordenação dos números naturais e na construção de fatos da adição e da subtração, relacionando-os com deslocamentos para a direita ou para a esquerda.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Procedimentos de cálculo (mental e escrito) com números naturais: adição e subtração",
+              "competencias": [
+                {
+                  "codigo": "EF03MA05",
+                  "tipo": "BNCC",
+                  "descricao": "Utilizar diferentes procedimentos de cálculo mental e escrito, inclusive os convencionais, para resolver problemas significativos envolvendo adição e subtração com números naturais.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Problemas envolvendo significados da adição e da subtração: juntar, acrescentar, separar, retirar, comparar e completar quantidades",
+              "competencias": [
+                {
+                  "codigo": "EF03MA06",
+                  "tipo": "BNCC",
+                  "descricao": "Resolver e elaborar problemas de adição e subtração (campo conceitual aditivo) com os significados de juntar, acrescentar, separar, retirar, comparar e completar quantidades, utilizando diferentes estratégias de cálculo exato ou aproximado, incluindo cálculo mental.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03MA06.1-EA",
+                  "tipo": "EA",
+                  "descricao": "Utilizar sinais convencionais (+, -, =) na escrita das operações de adição e subtração e reconhecer o algoritmo usual como facilitador do cálculo das adições e subtrações mais complexas, em menor tempo, usando-o para resolver problemas.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Problemas envolvendo diferentes significados da multiplicação e da divisão: adição de parcelas iguais, configuração retangular, proporção, combinações, quantidades de grupos, repartição em partes iguais e medida",
+              "competencias": [
+                {
+                  "codigo": "EF03MA07",
+                  "tipo": "BNCC",
+                  "descricao": "Resolver e elaborar problemas de multiplicação (por 2, 3, 4, 5 e 10) com os significados de adição de parcelas iguais e elementos apresentados em disposição retangular, proporção e combinações, utilizando diferentes estratégias de cálculo e registros.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03MA07.1-EA",
+                  "tipo": "EA",
+                  "descricao": "Utilizar sinais convencionais (× e =) na escrita da multiplicação e reconhecer o algoritmo da multiplicação como um facilitador de multiplicações e divisões mais complexas em menor tempo, usando-o para resolver problemas.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03MA07.2-EA",
+                  "tipo": "EA",
+                  "descricao": "Determinar o resultado de uma multiplicação de um número por 10, por 100 e por 1 000, observando regularidades que permitam sua memorização.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03MA07.3-EA",
+                  "tipo": "EA",
+                  "descricao": "Resolver e elaborar problemas explorando o significado da multiplicação por 0 e 1, utilizando estratégias pessoais e recursos diversos, como linguagem oral com o suporte de imagens ou materiais de manipulação.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Divisão",
+              "competencias": [
+                {
+                  "codigo": "EF03MA08",
+                  "tipo": "BNCC",
+                  "descricao": "Resolver e elaborar problemas de divisão de um número natural por outro (até 10), com resto zero e com resto diferente de zero, com os significados de repartição equitativa e de medida, por meio de estratégias e registros pessoais.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03MA08.1-EA",
+                  "tipo": "EA",
+                  "descricao": "Recorrer à divisão meio a meio para obter outros resultados.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03MA08.2-EA",
+                  "tipo": "EA",
+                  "descricao": "Determinar o resultado de uma divisão por 10, por 100 e por 1 000, observando regularidades que permitam sua memorização.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Significados de metade, terça parte, quarta parte, quinta parte e décima parte",
+              "competencias": [
+                {
+                  "codigo": "EF03MA09",
+                  "tipo": "BNCC",
+                  "descricao": "Associar o quociente de uma divisão com resto zero de um número natural por 2, 3, 4, 5 e 10 às ideias de metade, terça, quarta, quinta e décima partes.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Multiplicação e divisão como operações inversas",
+              "competencias": [
+                {
+                  "codigo": "EF03MA29",
+                  "tipo": "BNCC",
+                  "descricao": "Diferenciar e relacionar a multiplicação e a divisão como operações inversas, em situações do cotidiano.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Uso de calculadora",
+              "competencias": [
+                {
+                  "codigo": "EF03MA30-EA",
+                  "tipo": "EA",
+                  "descricao": "Utilizar a calculadora para desenvolver o raciocínio lógico e validar (ou não) resultados obtidos por estratégias pessoais de cálculo de adição, subtração, multiplicação e divisão.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Álgebra",
+          "objetos_conhecimento": [
+            {
+              "nome": "Identificação e descrição de regularidades em sequências numéricas recursivas",
+              "competencias": [
+                {
+                  "codigo": "EF03MA10",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar regularidades em sequências ordenadas de números naturais, resultantes da realização de adições ou subtrações sucessivas, por um mesmo número, descrever uma regra de formação da sequência e determinar elementos faltantes ou seguintes.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Relação de igualdade",
+              "competencias": [
+                {
+                  "codigo": "EF03MA11",
+                  "tipo": "BNCC",
+                  "descricao": "Compreender a ideia de igualdade para escrever diferentes sentenças de adições ou de subtrações de dois números naturais que resultem na mesma soma ou diferença.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03MA31-EA",
+                  "tipo": "EA",
+                  "descricao": "Determinar um elemento desconhecido em uma igualdade envolvendo números até 20.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Geometria",
+          "objetos_conhecimento": [
+            {
+              "nome": "Localização e movimentação: representação de objetos e pontos de referência",
+              "competencias": [
+                {
+                  "codigo": "EF03MA12",
+                  "tipo": "BNCC",
+                  "descricao": "Descrever e representar, por meio de esboços de trajetos ou utilizando croquis e maquetes, a movimentação de pessoas ou de objetos no espaço, incluindo mudanças de direção e de sentido, com base em diferentes pontos de referência.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Figuras geométricas espaciais (cubo, bloco retangular, pirâmide, cone, cilindro e esfera): reconhecimento, análise de características e planificações",
+              "competencias": [
+                {
+                  "codigo": "EF03MA13",
+                  "tipo": "BNCC",
+                  "descricao": "Associar figuras geométricas espaciais (cubo, bloco retangular, pirâmide, cone, cilindro e esfera) a objetos do mundo físico e nomear essas figuras.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03MA14",
+                  "tipo": "BNCC",
+                  "descricao": "Descrever características de algumas figuras geométricas espaciais (prismas retos, pirâmides, cilindros, cones), relacionando-as com suas planificações.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Figuras geométricas planas (triângulo, quadrado, retângulo, trapézio e paralelogramo): reconhecimento e análise de características",
+              "competencias": [
+                {
+                  "codigo": "EF03MA15",
+                  "tipo": "BNCC",
+                  "descricao": "Classificar e comparar figuras planas (triângulo, quadrado, retângulo, trapézio e paralelogramo) em relação a seus lados (quantidade, posições relativas e comprimento) e vértices.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Congruência de figuras geométricas planas",
+              "competencias": [
+                {
+                  "codigo": "EF03MA16",
+                  "tipo": "BNCC",
+                  "descricao": "Reconhecer figuras congruentes, usando sobreposição e desenhos em malhas quadriculadas ou triangulares, incluindo o uso de tecnologias digitais.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Grandezas e medidas",
+          "objetos_conhecimento": [
+            {
+              "nome": "Significado de medida e unidade de medida",
+              "competencias": [
+                {
+                  "codigo": "EF03MA17",
+                  "tipo": "BNCC",
+                  "descricao": "Reconhecer que o resultado de uma medida depende da unidade de medida utilizada.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03MA18",
+                  "tipo": "BNCC",
+                  "descricao": "Escolher a unidade de medida e o instrumento mais apropriado para medições de comprimento, tempo e capacidade.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Medidas de comprimento (unidades não convencionais e convencionais): registro, instrumentos de medida, estimativas e comparações",
+              "competencias": [
+                {
+                  "codigo": "EF03MA19",
+                  "tipo": "BNCC",
+                  "descricao": "Estimar, medir e comparar comprimentos, utilizando unidades de medida não padronizadas e padronizadas mais usuais (metro, centímetro e milímetro) e diversos instrumentos de medida.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Medidas de capacidade e de massa (unidades não convencionais e convencionais): registro, estimativas e comparações",
+              "competencias": [
+                {
+                  "codigo": "EF03MA20",
+                  "tipo": "BNCC",
+                  "descricao": "Estimar e medir capacidade e massa, utilizando unidades de medida não padronizadas e padronizadas mais usuais (litro, mililitro, quilograma, grama e miligrama), reconhecendo-as em leitura de rótulos e embalagens, entre outros.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Comparação de áreas por superposição",
+              "competencias": [
+                {
+                  "codigo": "EF03MA21",
+                  "tipo": "BNCC",
+                  "descricao": "Comparar, visualmente ou por superposição, áreas de faces de objetos, de figuras planas ou de desenhos.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Medidas de tempo: leitura de horas em relógios digitais e analógicos, duração de eventos e reconhecimento de relações entre unidades de medida de tempo",
+              "competencias": [
+                {
+                  "codigo": "EF03MA22",
+                  "tipo": "BNCC",
+                  "descricao": "Ler e registrar medidas e intervalos de tempo, utilizando relógios (analógico e digital) para informar os horários de início e término de realização de uma atividade e sua duração.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03MA23",
+                  "tipo": "BNCC",
+                  "descricao": "Ler horas em relógios digitais e em relógios analógicos e reconhecer a relação entre hora e minutos e entre minuto e segundos.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Problemas envolvendo medidas de tempo, comprimento, massa e capacidade",
+              "competencias": [
+                {
+                  "codigo": "EF03MA32-EA",
+                  "tipo": "EA",
+                  "descricao": "Resolver e elaborar problemas envolvendo as medidas de tempo, comprimento, massa e capacidade, utilizando estimativa, cálculo mental, instrumentos convencionais e não convencionais e outras estratégias pessoais.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Sistema monetário brasileiro: estabelecimento de equivalências de um mesmo valor na utilização de diferentes cédulas e moedas",
+              "competencias": [
+                {
+                  "codigo": "EF03MA24",
+                  "tipo": "BNCC",
+                  "descricao": "Resolver e elaborar problemas que envolvam a comparação e a equivalência de valores monetários do sistema brasileiro em situações de compra, venda e troca.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03MA24.1-EA",
+                  "tipo": "EA",
+                  "descricao": "Ler e escrever o valor monetário contido em cédulas e moedas, conforme a norma padrão.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Probabilidade e estatística",
+          "objetos_conhecimento": [
+            {
+              "nome": "Análise da ideia de acaso em situações do cotidiano: espaço amostral",
+              "competencias": [
+                {
+                  "codigo": "EF03MA25",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar, em eventos familiares aleatórios, todos os resultados possíveis, estimando os que têm maiores ou menores chances de ocorrência.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Leitura, interpretação e representação dos dados em tabelas de dupla entrada e gráficos de barras",
+              "competencias": [
+                {
+                  "codigo": "EF03MA26",
+                  "tipo": "BNCC",
+                  "descricao": "Resolver problemas cujos dados estão apresentados em tabelas de dupla entrada, gráficos de barras ou de colunas.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03MA27",
+                  "tipo": "BNCC",
+                  "descricao": "Ler, interpretar e comparar dados apresentados em tabelas de dupla entrada, gráficos de barras ou de colunas, envolvendo resultados de pesquisas significativas, utilizando termos como \"maior\" e \"menor frequência\", apropriando-se desse tipo de linguagem para compreender aspectos significativos da realidade sociocultural.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "ciencias": {
+      "nome_display": "CIÊNCIAS",
+      "categorias": [
+        {
+          "nome": "Matéria e energia",
+          "objetos_conhecimento": [
+            {
+              "nome": "Produção de som. Efeitos da luz nos materiais",
+              "competencias": [
+                {
+                  "codigo": "EF03CI01",
+                  "tipo": "BNCC",
+                  "descricao": "Produzir diferentes sons a partir da vibração de variados objetos e identificar variáveis que influem nesse fenômeno.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03CI02",
+                  "tipo": "BNCC",
+                  "descricao": "Experimentar e relatar o que ocorre com a passagem da luz através de objetos transparentes (copos, janelas de vidro, lentes, prismas, água, etc.), no contato com superfícies polidas (espelhos) e na intersecção com objetos opacos (paredes, pratos, pessoas e outros objetos de uso cotidiano).",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Saúde auditiva e visual",
+              "competencias": [
+                {
+                  "codigo": "EF03CI03",
+                  "tipo": "BNCC",
+                  "descricao": "Discutir hábitos necessários para a manutenção da saúde auditiva e visual considerando as condições do ambiente em termos de som e luz.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03CI11-EA",
+                  "tipo": "EA",
+                  "descricao": "Identificar as condições do ambiente, em termos de som e luz.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03CI11.1-EA",
+                  "tipo": "EA",
+                  "descricao": "Estabelecer relação entre a exposição a condições não adequadas e sua interferência na saúde auditiva e visual dos seres vivos.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vida e evolução",
+          "objetos_conhecimento": [
+            {
+              "nome": "Características e desenvolvimento dos animais",
+              "competencias": [
+                {
+                  "codigo": "EF03CI04",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar características sobre o modo de vida (o que comem, como se reproduzem, como se deslocam, etc.) dos animais mais comuns no ambiente próximo.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03CI05",
+                  "tipo": "BNCC",
+                  "descricao": "Descrever e comunicar as alterações que ocorrem desde o nascimento em animais de diferentes meios terrestres ou aquáticos, inclusive o homem.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03CI06",
+                  "tipo": "BNCC",
+                  "descricao": "Comparar alguns animais e organizar grupos com base em características externas comuns (presença de penas, pelos, escamas, bico, garras, antenas, patas, etc.).",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03CI12-EA",
+                  "tipo": "EA",
+                  "descricao": "Discutir as grandes diferenças percebidas nas características externas dos animais e como existem interpretações distintas para sua origem, podendo ser por meio da criação divina (criacionismo) ou a partir de um único ancestral comum (evolucionismo).",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Terra e Universo",
+          "objetos_conhecimento": [
+            {
+              "nome": "Características da Terra. Observação do céu. O Universo a favor da humanidade",
+              "competencias": [
+                {
+                  "codigo": "EF03CI07",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar características da Terra (como seu formato esférico, a presença de água, solo etc.), com base na observação, manipulação e comparação de diferentes formas de representação do planeta (mapas, globos, fotografias, etc.).",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03CI08",
+                  "tipo": "BNCC",
+                  "descricao": "Observar, identificar e registrar os períodos diários (dia e/ou noite) em que o Sol, demais estrelas, Lua e planetas estão visíveis no céu.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03CI13-EA",
+                  "tipo": "EA",
+                  "descricao": "Compreender como os conhecimentos da astronomia têm sido relacionados a atividades de importância para a humanidade, como calendários, viagens e navegação, religiões e agricultura, em tempos antigos e atuais.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Usos do solo",
+              "competencias": [
+                {
+                  "codigo": "EF03CI09",
+                  "tipo": "BNCC",
+                  "descricao": "Comparar diferentes amostras de solo do entorno da escola com base em características como cor, textura, cheiro, tamanho das partículas, permeabilidade, etc.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03CI10",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar os diferentes usos do solo (plantação e extração de materiais, dentre outras possibilidades), reconhecendo a importância do solo para a agricultura e para a vida.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03CI14-EA",
+                  "tipo": "EA",
+                  "descricao": "Conhecer superficialmente medidas de conservação e preservação e fazer comparação de diferentes ambientes em ecossistemas brasileiros quanto à vegetação e à fauna, suas inter-relações e interações com o solo, identificando as características do solo que são viáveis à agricultura.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "geografia": {
+      "nome_display": "GEOGRAFIA",
+      "categorias": [
+        {
+          "nome": "O sujeito e seu lugar no mundo",
+          "objetos_conhecimento": [
+            {
+              "nome": "A cidade e o campo: aproximações e diferenças",
+              "competencias": [
+                {
+                  "codigo": "EF03GE01",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar e comparar aspectos culturais dos grupos sociais de seus lugares de vivência, seja na cidade, seja no campo.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03GE02",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar, em seus lugares de vivência, marcas de contribuição cultural e econômica de grupos de diferentes origens.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03GE03",
+                  "tipo": "BNCC",
+                  "descricao": "Reconhecer os diferentes modos de vida de povos e comunidades tradicionais em distintos lugares.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Conexões e escalas",
+          "objetos_conhecimento": [
+            {
+              "nome": "Paisagens naturais e antrópicas em transformação",
+              "competencias": [
+                {
+                  "codigo": "EF03GE04",
+                  "tipo": "BNCC",
+                  "descricao": "Explicar como os processos naturais e históricos atuam na produção e na mudança das paisagens naturais e antrópicas nos seus lugares de vivência, comparando-os a outros lugares.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Mundo do trabalho",
+          "objetos_conhecimento": [
+            {
+              "nome": "Matéria-prima e indústria",
+              "competencias": [
+                {
+                  "codigo": "EF03GE05",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar alimentos, minerais e outros produtos cultivados e extraídos da natureza, comparando as atividades de trabalho em diferentes lugares.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03GE05.1-EA",
+                  "tipo": "EA",
+                  "descricao": "Identificar o processo de transformação de matéria-prima em produto industrializado, no campo e na cidade.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Formas de representação e pensamento espacial",
+          "objetos_conhecimento": [
+            {
+              "nome": "Representações cartográficas",
+              "competencias": [
+                {
+                  "codigo": "EF03GE06",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar e interpretar imagens bidimensionais e tridimensionais em diferentes tipos de representação cartográfica.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03GE07",
+                  "tipo": "BNCC",
+                  "descricao": "Reconhecer e elaborar legendas com símbolos de diversos tipos de representações em diferentes escalas cartográficas.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03GE07.1-EA",
+                  "tipo": "EA",
+                  "descricao": "Ler e apontar os meios de localização no espaço geográfico por meio de símbolos e cores, e construir noções de distâncias utilizando mapas.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Natureza, ambientes e qualidade de vida",
+          "objetos_conhecimento": [
+            {
+              "nome": "Produção, circulação e consumo",
+              "competencias": [
+                {
+                  "codigo": "EF03GE08",
+                  "tipo": "BNCC",
+                  "descricao": "Relacionar a produção de lixo doméstico ou da escola aos problemas causados pelo consumo excessivo e construir propostas para o consumo consciente, considerando a ampliação de hábitos de redução, reúso e reciclagem/descarte de materiais consumidos em casa, na escola e/ou no entorno.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03GE09",
+                  "tipo": "BNCC",
+                  "descricao": "Investigar os usos dos recursos naturais, com destaque para os usos da água em atividades cotidianas (alimentação, higiene, cultivo de plantas, etc.), e discutir os problemas ambientais provocados por esses usos.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03GE10",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar os cuidados necessários para utilização da água na agricultura e na geração de energia de modo a garantir a manutenção do provimento de água potável.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Impactos das atividades humanas",
+              "competencias": [
+                {
+                  "codigo": "EF03GE11",
+                  "tipo": "BNCC",
+                  "descricao": "Comparar os impactos das atividades econômicas urbanas e rurais sobre o ambiente físico natural, assim como os riscos provenientes do uso de ferramentas e máquinas.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "historia": {
+      "nome_display": "HISTÓRIA",
+      "categorias": [
+        {
+          "nome": "As pessoas e os grupos que compõem a cidade e o município",
+          "objetos_conhecimento": [
+            {
+              "nome": "O \"eu\", o \"outro\" e os diferentes grupos sociais e étnicos que compõem a cidade e os municípios: os desafios sociais, culturais e ambientais do lugar onde vive",
+              "competencias": [
+                {
+                  "codigo": "EF1922.FE-EA",
+                  "tipo": "FE-EA",
+                  "descricao": "Envolver-se em práticas de atos de serviço e voluntariado (1 Pedro 4:10, 11).",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03HI01",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar os grupos populacionais que formam a cidade, o município e a região, as relações estabelecidas entre eles e os eventos que marcam a formação da cidade, como fenômenos migratórios (vida rural/vida urbana), desmatamentos, estabelecimento de grandes empresas, etc.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03HI02",
+                  "tipo": "BNCC",
+                  "descricao": "Selecionar, por meio da consulta de fontes de diferentes naturezas, e registrar acontecimentos ocorridos ao longo do tempo na cidade ou região em que vive.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03HI03",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar e comparar pontos de vista em relação a eventos significativos do local em que vive, aspectos relacionados a condições sociais e à presença de diferentes grupos sociais e culturais, com especial destaque para as culturas africanas, indígenas e de migrantes.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Os patrimônios históricos e culturais da cidade e/ou do município em que vive",
+              "competencias": [
+                {
+                  "codigo": "EF03HI04",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar os patrimônios históricos e culturais de sua cidade ou região e discutir as razões culturais, sociais e políticas para que assim sejam considerados.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "O lugar em que vive",
+          "objetos_conhecimento": [
+            {
+              "nome": "A produção dos marcos da memória: os lugares de memória (ruas, praças, escolas, monumentos, museus, etc.)",
+              "competencias": [
+                {
+                  "codigo": "EF03HI05",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar os marcos históricos do lugar em que vive e compreender seus significados.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03HI06",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar os registros de memória na cidade (nomes de ruas, monumentos, edifícios, etc.), discutindo os critérios que explicam a escolha desses nomes.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "A produção dos marcos da memória: formação cultural da população",
+              "competencias": [
+                {
+                  "codigo": "EF03HI07",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar semelhanças e diferenças existentes entre comunidades de sua cidade ou região, e descrever o papel dos diferentes grupos sociais que as formam.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "A produção dos marcos da memória: a cidade e o campo, aproximações e diferenças",
+              "competencias": [
+                {
+                  "codigo": "EF03HI08",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar modos de vida na cidade e no campo no presente, comparando-os com os do passado.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03HI08.1-EA",
+                  "tipo": "EA",
+                  "descricao": "Valorizar os benefícios do contato com a natureza, seja no campo ou na cidade.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "A noção de espaço público e privado",
+          "objetos_conhecimento": [
+            {
+              "nome": "A cidade, seus espaços públicos e privados e suas áreas de conservação ambiental",
+              "competencias": [
+                {
+                  "codigo": "EF1907.FE-EA",
+                  "tipo": "FE-EA",
+                  "descricao": "Valorizar e cumprir as normas de convivência, contribuindo para manutenção de um ambiente saudável (Provérbios 3:1, 2; Tiago 1:22; Romanos 13:1, 2).",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03HI09",
+                  "tipo": "BNCC",
+                  "descricao": "Mapear os espaços públicos no lugar em que vive (ruas, praças, escolas, hospitais, prédios da Prefeitura e da Câmara de Vereadores, etc.) e identificar suas funções.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03HI10",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar as diferenças entre o espaço doméstico, os espaços públicos e as áreas de conservação ambiental, compreendendo a importância dessa distinção.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03HI10.1-EA",
+                  "tipo": "EA",
+                  "descricao": "Manifestar compreensão de que todos são responsáveis em preservar os espaços de vivência, sejam eles domésticos ou públicos, além de respeitar as normas de cada espaço.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "A cidade e suas atividades: trabalho, cultura e lazer",
+              "competencias": [
+                {
+                  "codigo": "EF03HI11",
+                  "tipo": "BNCC",
+                  "descricao": "Identificar diferenças entre formas de trabalho realizadas na cidade e no campo, considerando também o uso da tecnologia nesses diferentes contextos.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03HI12",
+                  "tipo": "BNCC",
+                  "descricao": "Comparar as relações de trabalho e lazer do presente com as de outros tempos e espaços, analisando mudanças e permanências.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03HI12.1-EA",
+                  "tipo": "EA",
+                  "descricao": "Valorizar e respeitar as variadas formas de trabalho e as pessoas que se ocupam delas, reconhecendo inclusive a importância do trabalho manual e prático para o desenvolvimento de habilidades profissionais em qualquer área.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "ensino_religioso": {
+      "nome_display": "ENSINO REL.",
+      "categorias": [
+        {
+          "nome": "Evangelhos - Deus e eu",
+          "objetos_conhecimento": [
+            {
+              "nome": "Deus se revela por meio de Jesus Cristo",
+              "competencias": [
+                {
+                  "codigo": "EF03ER01-EA",
+                  "tipo": "EA",
+                  "descricao": "Evidenciar a compreensão de que Jesus é Deus conosco.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Nascimento e infância de Jesus",
+              "competencias": [
+                {
+                  "codigo": "EF03ER02-EA",
+                  "tipo": "EA",
+                  "descricao": "Relatar a história do nascimento de Jesus e alguns aspectos da infância Dele.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "O batismo de Jesus",
+              "competencias": [
+                {
+                  "codigo": "EF03ER03-EA",
+                  "tipo": "EA",
+                  "descricao": "Explicar como e por que aconteceu o batismo de Jesus.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "A Trindade",
+              "competencias": [
+                {
+                  "codigo": "EF03ER04-EA",
+                  "tipo": "EA",
+                  "descricao": "Identificar as pessoas da Trindade presentes no batismo de Jesus.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "O Espírito Santo",
+              "competencias": [
+                {
+                  "codigo": "EF03ER05-EA",
+                  "tipo": "EA",
+                  "descricao": "Enumerar as funções do Espírito Santo.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER06-EA",
+                  "tipo": "EA",
+                  "descricao": "Descrever o que o Espírito Santo produz na vida do ser humano (Gálatas 5:22, 23).",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER07-EA",
+                  "tipo": "EA",
+                  "descricao": "Concluir que é necessário pedir o Espírito Santo para ser semelhante a Jesus.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Obediência e caráter de Jesus",
+              "competencias": [
+                {
+                  "codigo": "EF03ER08-EA",
+                  "tipo": "EA",
+                  "descricao": "Identificar relatos de obediência de Jesus para com Deus durante todo o Seu ministério terrestre.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER09-EA",
+                  "tipo": "EA",
+                  "descricao": "Reconhecer que Jesus veio revelar o amor e o caráter de Deus.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Vitória contra o pecado e perdão",
+              "competencias": [
+                {
+                  "codigo": "EF03ER10-EA",
+                  "tipo": "EA",
+                  "descricao": "Identificar o segredo de Jesus sobre a Sua vitória contra o pecado.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER11-EA",
+                  "tipo": "EA",
+                  "descricao": "Concluir que os erros fazem parte da natureza humana.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER12-EA",
+                  "tipo": "EA",
+                  "descricao": "Reconhecer que, em Deus, o ser humano encontra o perdão dos pecados e a vitória sobre qualquer tipo de erro.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "O ministério de Jesus",
+              "competencias": [
+                {
+                  "codigo": "EF03ER13-EA",
+                  "tipo": "EA",
+                  "descricao": "Identificar no ministério de Jesus, a compaixão pelos necessitados.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER14-EA",
+                  "tipo": "EA",
+                  "descricao": "Reconhecer que, em Deus, o ser humano encontra o perdão dos pecados e a vitória sobre qualquer tipo de erro.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER15-EA",
+                  "tipo": "EA",
+                  "descricao": "Identificar no ministério de Jesus a compaixão pelos necessitados.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER16-EA",
+                  "tipo": "EA",
+                  "descricao": "Descrever como Jesus abordava cada pessoa, intentando salvá-la.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER17-EA",
+                  "tipo": "EA",
+                  "descricao": "Explicar como as pessoas, que entraram em contato com Jesus, reagiram ao convite da salvação.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Evangelhos - Deus, você e eu",
+          "objetos_conhecimento": [
+            {
+              "nome": "Relacionamento interpessoal",
+              "competencias": [
+                {
+                  "codigo": "EF03ER18-EA",
+                  "tipo": "EA",
+                  "descricao": "Tratar as pessoas como gostaria de ser tratado, considerando os sentimentos delas.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER19-EA",
+                  "tipo": "EA",
+                  "descricao": "Reconhecer que as suas ações influenciam a vida dos outros.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER20-EA",
+                  "tipo": "EA",
+                  "descricao": "Relatar experiências em que suas ações contribuíram para uma boa convivência.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER21-EA",
+                  "tipo": "EA",
+                  "descricao": "Reconhecer o erro, sem precisar culpar o outro.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER22-EA",
+                  "tipo": "EA",
+                  "descricao": "Estar disposto a reparar o erro.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER23-EA",
+                  "tipo": "EA",
+                  "descricao": "Identificar ações que ajudam a construir vínculos.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER24-EA",
+                  "tipo": "EA",
+                  "descricao": "Demonstrar, nos relacionamentos diários, as manifestações do fruto do Espírito Santo.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER25-EA",
+                  "tipo": "EA",
+                  "descricao": "Relatar experiências em que suas ações contribuíram para uma boa convivência.",
+                  "campos_atuacao": []
+                }
+              ]
+            },
+            {
+              "nome": "Autoestima",
+              "competencias": [
+                {
+                  "codigo": "EF03ER26-EA",
+                  "tipo": "EA",
+                  "descricao": "Expressar o sentimento de gratidão pelo seu valor pessoal confirmado na morte de Cristo Jesus.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER27-EA",
+                  "tipo": "EA",
+                  "descricao": "Explicar o que envolve ser seguidor de Cristo.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Evangelhos - Deus, nós e o outro",
+          "objetos_conhecimento": [
+            {
+              "nome": "Discípulos atuais",
+              "competencias": [
+                {
+                  "codigo": "EF03ER28-EA",
+                  "tipo": "EA",
+                  "descricao": "Demonstrar preocupação com as necessidades dos outros ajudando-os, seguindo o exemplo de Jesus.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER29-EA",
+                  "tipo": "EA",
+                  "descricao": "Identificar pessoas necessitadas em sua comunidade.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER30-EA",
+                  "tipo": "EA",
+                  "descricao": "Elaborar planos de ação beneficente, com o auxílio do professor ou dos pais.",
+                  "campos_atuacao": []
+                },
+                {
+                  "codigo": "EF03ER31-EA",
+                  "tipo": "EA",
+                  "descricao": "Compartilhar as mensagens sobre a vida de Jesus com amigos, familiares e outras pessoas.",
+                  "campos_atuacao": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

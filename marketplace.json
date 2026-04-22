@@ -1,0 +1,15 @@
+{
+  "name": "educacao",
+  "owner": {
+    "name": "Alpha Cancri Analytics",
+    "email": "gyo@supernovalabs.com.br"
+  },
+  "plugins": [
+    {
+      "name": "semanario-escolar",
+      "source": "./semanario-escolar",
+      "description": "Gera o semanário escolar em Excel para o 3º Ano A com banco RAI de 194 competências do currículo adventista.",
+      "version": "2.0.0"
+    }
+  ]
+}
