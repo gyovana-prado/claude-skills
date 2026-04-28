@@ -1,0 +1,10 @@
+{
+  "name": "open-pr",
+  "version": "1.0.0",
+  "description": "Opens pull requests end-to-end: sensitive data audit, code formatting, commit, PR description, and GitHub PR creation.",
+  "author": { "name": "Gyovana Prado" },
+  "homepage": "https://github.com/gyovana-prado/claude-skills",
+  "repository": "https://github.com/gyovana-prado/claude-skills",
+  "license": "MIT",
+  "keywords": ["git", "github", "pull-request", "pr", "security", "workflow"]
+}

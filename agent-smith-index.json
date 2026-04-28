@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "mode": "marketplace",
+  "lastUpdated": "2026-04-28T00:00:00Z",
+  "components": {
+    "skills": [
+      {
+        "name": "md-to-docx",
+        "path": "md-to-docx/skills/md-to-docx/SKILL.md",
+        "description": "Convert Markdown files to Word (.docx) format using pandoc.",
+        "allowedTools": ["Bash", "Read"],
+        "tags": ["markdown", "docx", "word", "pandoc", "conversion"]
+      },
+      {
+        "name": "open-pr",
+        "path": "open-pr/skills/open-pr/SKILL.md",
+        "description": "Open a pull request end-to-end: audits for sensitive data, formats code, commits, generates PR description, and creates the PR on GitHub.",
+        "supportingFiles": [
+          "open-pr/skills/open-pr/security-patterns.md"
+        ],
+        "allowedTools": ["Read", "Grep", "Glob", "Bash", "Edit", "Write"],
+        "tags": ["git", "github", "pull-request", "security", "workflow"]
+      },
+      {
+        "name": "semanario",
+        "path": "semanario-escolar/skills/semanario/SKILL.md",
+        "description": "Gera o semanário escolar em Excel para o 3º Ano A com banco RAI de 194 competências.",
+        "tags": ["educação", "escola", "excel", "planejamento"]
+      }
+    ],
+    "agents": [],
+    "hooks": [],
+    "scripts": []
+  },
+  "relationships": [
+    {
+      "from": "open-pr/skills/open-pr",
+      "to": "open-pr/skills/open-pr/security-patterns.md",
+      "type": "references"
+    }
+  ],
+  "plugins": [
+    {
+      "name": "md-to-docx",
+      "path": "md-to-docx",
+      "version": "1.0.0",
+      "componentCounts": { "skills": 1, "agents": 0, "hooks": 0, "scripts": 0 }
+    },
+    {
+      "name": "open-pr",
+      "path": "open-pr",
+      "version": "1.0.0",
+      "componentCounts": { "skills": 1, "agents": 0, "hooks": 0, "scripts": 0 }
+    },
+    {
+      "name": "semanario-escolar",
+      "path": "semanario-escolar",
+      "version": "2.0.0",
+      "componentCounts": { "skills": 1, "agents": 0, "hooks": 0, "scripts": 0 }
+    }
+  ]
+}

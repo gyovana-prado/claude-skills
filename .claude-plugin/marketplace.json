@@ -1,0 +1,34 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "Gyovana Prado",
+    "email": "gyo@supernovalabs.com.br"
+  },
+  "metadata": {
+    "description": "Coleção de skills e plugins para Claude Code",
+    "homepage": "https://github.com/gyovana-prado/claude-skills"
+  },
+  "plugins": [
+    {
+      "name": "md-to-docx",
+      "source": "./md-to-docx",
+      "description": "Converte arquivos Markdown para Word (.docx) usando pandoc.",
+      "version": "1.0.0",
+      "author": { "name": "Gyovana Prado" }
+    },
+    {
+      "name": "open-pr",
+      "source": "./open-pr",
+      "description": "Abre pull requests end-to-end: auditoria de dados sensíveis, formatação, commit, descrição e criação do PR no GitHub.",
+      "version": "1.0.0",
+      "author": { "name": "Gyovana Prado" }
+    },
+    {
+      "name": "semanario-escolar",
+      "source": "./semanario-escolar",
+      "description": "Gera o semanário escolar em Excel para o 3º Ano A com banco RAI de 194 competências do currículo adventista.",
+      "version": "2.0.0",
+      "author": { "name": "Gyovana Prado" }
+    }
+  ]
+}

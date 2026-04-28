@@ -1,3 +1,14 @@
+---
+name: md-to-docx
+description: >
+  Convert Markdown files to Word (.docx) format using pandoc. Use when the user
+  asks to convert a markdown file to Word, docx, or document format, or wants to
+  export markdown as a Word document.
+allowed-tools:
+  - Bash
+  - Read
+---
+
 # md-to-docx — Markdown to Word Converter
 
 Converts `.md` files to `.docx` using **pandoc**, which is available in the
