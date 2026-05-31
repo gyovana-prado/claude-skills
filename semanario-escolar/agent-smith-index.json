@@ -1,0 +1,120 @@
+{
+  "version": "1.0",
+  "mode": "plugin",
+  "lastUpdated": "2026-05-30T21:45:00Z",
+
+  "components": {
+    "skills": [
+      {
+        "name": "semanario",
+        "path": "skills/semanario/SKILL.md",
+        "description": "Gera o semanário escolar em Excel para a Professora Angela do 3º Ano A, parseando PDFs do portal CPB Educacional (percurso pedagógico tabular).",
+        "supportingFiles": [
+          "skills/semanario/references/grade_horaria.json",
+          "skills/semanario/references/parsing-guide.md",
+          "skills/semanario/references/competencias.json",
+          "skills/semanario/references/competencias_rai_3ano.json",
+          "skills/semanario/scripts/manage_competencias.py"
+        ],
+        "allowedTools": ["Read", "Write", "Edit", "Bash", "Agent", "Glob", "Grep"],
+        "tags": ["educação", "semanário", "3o-ano", "angela"]
+      },
+      {
+        "name": "semanario-adriana",
+        "path": "skills/semanario-adriana/SKILL.md",
+        "description": "Gera o semanário escolar em Excel para a Professora Adriana do 5º Ano B, parseando DOCX de plano de aula narrativo (formato CPB capítulo a capítulo). Inclui condensação de desenvolvimento.",
+        "supportingFiles": [
+          "skills/semanario-adriana/references/grade_horaria_5anoB.json",
+          "skills/semanario-adriana/references/parsing-guide-docx.md",
+          "skills/semanario-adriana/references/competencias.json",
+          "skills/semanario-adriana/references/competencias_rai_5ano.json",
+          "skills/semanario-adriana/scripts/parse_plano_aula.py",
+          "skills/semanario-adriana/scripts/manage_competencias.py"
+        ],
+        "allowedTools": ["Read", "Write", "Edit", "Bash", "Glob", "Grep"],
+        "tags": ["educação", "semanário", "5o-ano", "adriana"]
+      }
+    ],
+
+    "scripts": [
+      {
+        "name": "generate_semanario",
+        "path": "shared/generate_semanario.py",
+        "purpose": "Gera o arquivo Excel do semanário a partir de JSON estruturado. Compartilhado entre as skills da Angela e da Adriana (mesmo formato de planilha).",
+        "usedBy": ["skills/semanario/SKILL.md", "skills/semanario-adriana/SKILL.md"]
+      },
+      {
+        "name": "manage_competencias_angela",
+        "path": "skills/semanario/scripts/manage_competencias.py",
+        "purpose": "Consulta e atualiza o banco RAI do 3º ano e o banco por capítulo. Aliases: lp, mat, cie, geo, his, er.",
+        "usedBy": ["skills/semanario/SKILL.md"]
+      },
+      {
+        "name": "manage_competencias_adriana",
+        "path": "skills/semanario-adriana/scripts/manage_competencias.py",
+        "purpose": "Consulta e atualiza o banco RAI do 5º ano e o banco por capítulo. Adaptado para JSON em 2 níveis (sem objeto_conhecimento intermediário).",
+        "usedBy": ["skills/semanario-adriana/SKILL.md"]
+      },
+      {
+        "name": "parse_plano_aula",
+        "path": "skills/semanario-adriana/scripts/parse_plano_aula.py",
+        "purpose": "Extrai cabeçalho, BNCC, objetos de conhecimento e aulas (intro/desenv/concl/tarefa) de um DOCX de plano de aula CPB.",
+        "usedBy": ["skills/semanario-adriana/SKILL.md"]
+      },
+      {
+        "name": "_extract_rai_5ano",
+        "path": "skills/semanario-adriana/scripts/_extract_rai_5ano.py",
+        "purpose": "Extrator único do PDF RAI 2024 para popular competencias_rai_5ano.json. Rodar apenas quando precisar regenerar o banco.",
+        "usedBy": []
+      }
+    ]
+  },
+
+  "relationships": [
+    {
+      "from": "skills/semanario",
+      "to": "shared/generate_semanario.py",
+      "type": "depends-on"
+    },
+    {
+      "from": "skills/semanario-adriana",
+      "to": "shared/generate_semanario.py",
+      "type": "depends-on"
+    },
+    {
+      "from": "skills/semanario",
+      "to": "skills/semanario/scripts/manage_competencias.py",
+      "type": "depends-on"
+    },
+    {
+      "from": "skills/semanario-adriana",
+      "to": "skills/semanario-adriana/scripts/parse_plano_aula.py",
+      "type": "depends-on"
+    },
+    {
+      "from": "skills/semanario-adriana",
+      "to": "skills/semanario-adriana/scripts/manage_competencias.py",
+      "type": "depends-on"
+    },
+    {
+      "from": "skills/semanario",
+      "to": "skills/semanario/references/parsing-guide.md",
+      "type": "references"
+    },
+    {
+      "from": "skills/semanario-adriana",
+      "to": "skills/semanario-adriana/references/parsing-guide-docx.md",
+      "type": "references"
+    },
+    {
+      "from": "skills/semanario",
+      "to": "skills/semanario/references/grade_horaria.json",
+      "type": "references"
+    },
+    {
+      "from": "skills/semanario-adriana",
+      "to": "skills/semanario-adriana/references/grade_horaria_5anoB.json",
+      "type": "references"
+    }
+  ]
+}

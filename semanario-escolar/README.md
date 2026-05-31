@@ -1,42 +1,65 @@
-# Semanário Escolar - Plugin
+# Semanário Escolar — Plugin
 
-Gera automaticamente o semanário escolar (planejamento quinzenal) em Excel para a Professora Angela do 3º Ano A de uma escola adventista.
+Gera automaticamente semanários escolares (planejamento quinzenal) em Excel para duas professoras do Ensino Fundamental I de uma escola adventista, cada uma com fluxo adaptado ao formato de material que recebem.
 
-## O que faz
+## Skills disponíveis
 
-- Parseia PDFs de percurso pedagógico e competências do portal CPB Educacional
-- Gera a planilha Excel no formato exato que a Angela usa
-- Inclui banco de dados RAI com 194 competências do 3º ano pré-extraídas
-- Suporta feriados, professor substituto e múltiplas competências por aula
+### `semanario` — Professora Angela (3º Ano A)
+
+Fluxo otimizado para **PDF de percurso pedagógico tabular** + **PDF de competências separado** (portal CPB Educacional). O percurso é uma tabela com colunas "Aula 1, Aula 2…" com bullets curtos.
+
+Gatilhos: "semanário Angela", "quinzenário 3º ano", "plano quinzenal 3º A".
+
+### `semanario-adriana` — Professora Adriana (5º Ano B)
+
+Fluxo otimizado para **DOCX de plano de aula narrativo**, um arquivo por capítulo. As habilidades BNCC já vêm no cabeçalho do docx. Cada aula é descrita em parágrafos longos (Introdução / Desenvolvimento / Conclusão / Tarefa de casa) que precisam ser **condensados** para o formato compacto do Excel.
+
+Gatilhos: "semanário Adriana", "quinzenário 5º ano", "plano quinzenal 5º B".
+
+## Estrutura do plugin
+
+```
+semanario-escolar/
+├── .claude-plugin/plugin.json
+├── shared/
+│   └── generate_semanario.py        # Gerador do Excel (compartilhado pelas duas skills)
+├── skills/
+│   ├── semanario/                   # Angela (3º A)
+│   │   ├── SKILL.md
+│   │   ├── references/
+│   │   │   ├── grade_horaria.json
+│   │   │   ├── parsing-guide.md
+│   │   │   ├── competencias.json
+│   │   │   └── competencias_rai_3ano.json   (194 competências)
+│   │   └── scripts/manage_competencias.py
+│   └── semanario-adriana/           # Adriana (5º B)
+│       ├── SKILL.md
+│       ├── references/
+│       │   ├── grade_horaria_5anoB.json
+│       │   ├── parsing-guide-docx.md
+│       │   ├── competencias.json
+│       │   └── competencias_rai_5ano.json   (147 competências)
+│       └── scripts/
+│           ├── parse_plano_aula.py          # Parser DOCX → JSON
+│           └── manage_competencias.py
+└── agent-smith-index.json
+```
 
 ## Como usar
 
 Diga algo como:
-- "gerar semanário da quinzena 13 a 24 de abril"
-- "preencher semanário"
-- "plano de aulas da próxima quinzena"
+- (Angela) "gerar semanário da Angela para 02 a 13 de junho"
+- (Adriana) "gerar semanário da Adriana — quinzena começa 02/06"
 
-O Claude vai pedir os PDFs do percurso pedagógico e gerar a planilha.
-
-## Componentes
-
-### Skill: semanario
-A skill principal que guia todo o fluxo de geração do semanário.
-
-### Banco RAI (194 competências)
-Banco completo de competências do 3º ano extraído do RAI 2024, organizado por matéria:
-- Língua Portuguesa: 80 competências
-- Matemática: 38 competências
-- Ciências: 15 competências
-- Geografia: 13 competências
-- História: 17 competências
-- Ensino Religioso: 31 competências
-
-### Scripts
-- `generate_semanario.py` — Gera o Excel usando openpyxl
-- `manage_competencias.py` — Gerencia bancos de competências (por capítulo e RAI)
+A skill correspondente vai perguntar pelos materiais necessários (PDFs para Angela, DOCX para Adriana) e gerar a planilha.
 
 ## Requisitos
 
-- Python 3 com `openpyxl` instalado
-- PDFs do percurso pedagógico (fornecidos pela professora)
+- Python 3 com `openpyxl` instalado (para gerar Excel)
+- `pypdf` (para o extrator inicial do RAI — uso único)
+- Materiais da quinzena: PDFs (Angela) ou DOCX (Adriana) fornecidos pelas professoras
+
+## Bancos RAI
+
+- **3º ano**: 194 competências organizadas por matéria, com 3 níveis (categoria → objeto de conhecimento → competência).
+- **5º ano**: 147 competências organizadas por matéria, com 2 níveis (categoria → competência). Extraído do RAI 2024 (`shared/_extract_rai_5ano.py`).

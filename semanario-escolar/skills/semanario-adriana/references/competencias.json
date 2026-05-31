@@ -1,0 +1,5 @@
+{
+  "versao": "1.0",
+  "instrucao_uso": "Banco de competências organizado por capítulo. Cada quinzena, quando a Adriana enviar o DOCX do plano de aula, o cabeçalho já traz as habilidades BNCC. Se o usuário pedir para salvar, adicionar aqui sob materias[chave].bimestre_N.capitulo_N.",
+  "materias": {}
+}

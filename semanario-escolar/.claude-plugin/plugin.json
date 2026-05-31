@@ -1,9 +1,9 @@
 {
   "name": "semanario-escolar",
-  "version": "2.0.0",
-  "description": "Gera o semanário escolar (planejamento quinzenal) em Excel para a Professora Angela do 3º Ano A, com banco RAI de 194 competências integrado.",
+  "version": "3.0.0",
+  "description": "Gera semanários escolares (planejamento quinzenal) em Excel para professoras do Ensino Fundamental I da escola Adventista. Suporta dois fluxos: Profª Angela (3º Ano A) com input via PDF de percurso pedagógico tabular, e Profª Adriana (5º Ano B) com input via DOCX de plano de aula narrativo capítulo a capítulo. Bancos RAI integrados para 3º e 5º anos.",
   "author": {
-    "name": " Gyovana Prado"
+    "name": "Gyovana Prado"
   },
-  "keywords": ["educação", "semanário", "planejamento", "escola", "adventista", "excel"]
+  "keywords": ["educação", "semanário", "quinzenário", "planejamento", "escola", "adventista", "excel", "cpb", "5o-ano", "3o-ano"]
 }

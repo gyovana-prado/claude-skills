@@ -292,12 +292,12 @@ LING. PORT. | MATEMÁTICA | CIÊNCIAS | HISTÓRIA | GEOGRAFIA | ENSINO REL. | ED
 
 **Novo:**
 ```bash
-python ${CLAUDE_PLUGIN_ROOT}/skills/semanario/scripts/generate_semanario.py <input.json> <output.xlsx>
+python ${CLAUDE_PLUGIN_ROOT}/shared/generate_semanario.py <input.json> <output.xlsx>
 ```
 
 **Append:**
 ```bash
-python ${CLAUDE_PLUGIN_ROOT}/skills/semanario/scripts/generate_semanario.py <input.json> --append-to <existing.xlsx> <output.xlsx>
+python ${CLAUDE_PLUGIN_ROOT}/shared/generate_semanario.py <input.json> --append-to <existing.xlsx> <output.xlsx>
 ```
 
 ### Abas

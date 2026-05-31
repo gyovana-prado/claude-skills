@@ -1,0 +1,878 @@
+{
+  "fonte": "Referenciais Curriculares da Rede Adventista (RAI 2024), Divisão Sul-Americana da IASD",
+  "ano": "5º",
+  "ultima_atualizacao": "2026-05-30",
+  "observacao": "Banco extraído automaticamente do PDF RAI 2024. Algumas categorias podem estar mal inferidas — corrigir manualmente quando detectado.",
+  "materias": {
+    "lingua_portuguesa": {
+      "nome_display": "LING. PORT.",
+      "categorias": [
+        {
+          "nome": "Produção de textos",
+          "competencias": [
+            {
+              "codigo": "EF15LP07",
+              "tipo": "BNCC",
+              "descricao": "Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital. Utilização de tecnologia digital."
+            },
+            {
+              "codigo": "EF15LP08",
+              "tipo": "BNCC",
+              "descricao": "Utilizar software, inclusive programas de edição de texto, para editar e publicar os textos produzidos, explorando os recursos multissemióticos disponíveis. 5º ano Práticas de linguagem Objetos de conhecimento Evidências de competências (atitudes e habilidades) Campos de atuação9 C AL EP VP JM Oralidade Contação de histórias."
+            },
+            {
+              "codigo": "EF35LP20",
+              "tipo": "BNCC",
+              "descricao": "Expor trabalhos ou pesquisas escolares em sala de aula, com apoio de recursos multisse mióticos (imagens, diagrama, tabelas), orientando-se por roteiro escrito, planejando o tempo de fala e adequando a linguagem à situação comunicativa. x"
+            },
+            {
+              "codigo": "EF05LP13",
+              "tipo": "BNCC",
+              "descricao": "Assistir, em vídeo digital, a postagem de vlog infantil de críticas de brinquedos e livros de literatura infantil e, a partir dele, planejar e produzir resenhas digitais em áudio ou vídeo. x"
+            },
+            {
+              "codigo": "EF05LP18",
+              "tipo": "BNCC",
+              "descricao": "Roteirizar e produzir vídeos argumentativos sobre produtos de mídia para o público infantil (filmes, desenhos animados, HQs, games, etc.), com base em conhecimentos sobre eles, de acordo com as convenções do gênero e considerando a situação comunicativa, o tema e a finalidade do texto. x"
+            },
+            {
+              "codigo": "EF05LP19",
+              "tipo": "BNCC",
+              "descricao": "Argumentar oralmente sobre aconte cimentos de interesse social, com base em co nhecimentos sobre fatos divulgados em TV, rádio, mídia impressa e digital, respeitando pontos de vista diferentes."
+            },
+            {
+              "codigo": "EF35LP07",
+              "tipo": "BNCC",
+              "descricao": "Utilizar, ao produzir um texto, conhecimentos linguísticos, tais como ortografia, regras básicas de concordância nominal e verbal, pontuação (ponto-final, ponto de exclamação, ponto de interrogação, vírgulas em enumerações) e pontuação do discurso direto, quando for o caso."
+            },
+            {
+              "codigo": "EF35LP08",
+              "tipo": "BNCC",
+              "descricao": "Utilizar, ao produzir um texto, recursos de referenciação (por substituição lexical ou por pronomes pessoais, possessivos e demonstrativos), vocabulário apropriado ao gênero, recursos de coesão pronominal (pronomes anafóricos) e articuladores de relações de sentido (tempo, causa, oposição, conclusão, comparação), com nível suficiente de informatividade. Progressão temática e paragrafação."
+            },
+            {
+              "codigo": "EF35LP09",
+              "tipo": "BNCC",
+              "descricao": "Organizar o texto em unidades de sen tido, dividindo-o em parágrafos segundo as normas gráficas e de acordo com as características do gênero textual. Planejamento e escrita de textos."
+            },
+            {
+              "codigo": "EF15LP05",
+              "tipo": "BNCC",
+              "descricao": "Planejar, com a ajuda do professor, o texto que será produzido, considerando a situação comunicativa, os interlocutores (quem escreve/para quem escreve); a finalidade ou o propósito (para que escrever); a circulação (onde o texto vai circular); o suporte (qual é o portador do texto); a linguagem, organização e forma do texto e seu tema, pesqui sando em meios impressos ou digitais, sempre que for preciso, informações necessárias à produção do texto, organizando em tópicos os dados e as fontes pesquisadas."
+            },
+            {
+              "codigo": "EF05LP12",
+              "tipo": "BNCC",
+              "descricao": "Planejar e produzir, com autonomia, textos instrucionais de regras de jogo, dentre outros gêneros do campo da vida cotidiana, de acordo com as convenções do gênero e considerando a situação comunicativa e a finalidade do texto. x"
+            },
+            {
+              "codigo": "EF05LP17",
+              "tipo": "BNCC",
+              "descricao": "Produzir roteiro de uma reportagem di gital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto. x x"
+            },
+            {
+              "codigo": "EF05LP24",
+              "tipo": "BNCC",
+              "descricao": "Planejar e produzir texto sobre tema de interesse, organizando resultados de pesquisa em fontes de informação impressas ou digitais, incluindo imagens e gráficos ou tabelas, considerando a situação comunicativa e o tema/ assunto do texto."
+            },
+            {
+              "codigo": "EF05LP25",
+              "tipo": "BNCC",
+              "descricao": "Planejar e produzir, com certa autonomia, verbetes de dicionário, digitais ou impressos, considerando a situação comunicativa, o tema/assunto e a finalidade do texto. x"
+            },
+            {
+              "codigo": "EF35LP15",
+              "tipo": "BNCC",
+              "descricao": "Opinar e defender ponto de vista sobre tema polêmico relacionado a situações vivenciadas na escola e/ou na comunidade, utilizando registro formal e estrutura adequada à argumentação, considerando a situação comunicativa e o tema/assunto do texto. Escrita autônoma e compartilhada."
+            },
+            {
+              "codigo": "EF35LP25",
+              "tipo": "BNCC",
+              "descricao": "Criar narrativas ficcionais, com certa autonomia, utilizando detalhes descritivos, se quências de eventos e imagens apropriadas para sustentar o sentido do texto, e marcadores de tempo, espaço e de fala de personagens. x"
+            },
+            {
+              "codigo": "EF05LP23-EA",
+              "tipo": "EA",
+              "descricao": "Reescrever narrativas bíblicas lidas, com mudança da voz narrativa e uso de descrições, diálogos e recursos literários. x"
+            },
+            {
+              "codigo": "EF05LP11",
+              "tipo": "BNCC",
+              "descricao": "Registrar, com autonomia, anedotas e cartuns, dentre outros gêneros do campo da vida cotidiana, de acordo com as convenções do gênero e considerando a situação comunicativa e a finalidade do texto."
+            },
+            {
+              "codigo": "EF05LP24-EA",
+              "tipo": "EA",
+              "descricao": "Criar textos devocionais, orações, relatos de missões e outros textos cotidianos voltados à formação espiritual."
+            },
+            {
+              "codigo": "EF35LP26",
+              "tipo": "BNCC",
+              "descricao": "Ler, compreender e escrever, com certa autonomia, narrativas que apresentem cenários e personagens, observando os elementos da estrutura narrativa: enredo, tempo, espaço, personagens, narrador e a construção dos discursos indireto e direto. x"
+            },
+            {
+              "codigo": "EF05LP25-EA",
+              "tipo": "EA",
+              "descricao": "Ler, compreender e escrever, mobilizando diferentes estratégias, textos em versos, explorando rimas, aliterações, sons e jogos de palavras, imagens poéticas (sentidos figurados) e recursos visuais e sonoros. x Revisão de textos."
+            },
+            {
+              "codigo": "EF15LP06",
+              "tipo": "BNCC",
+              "descricao": "Reler e revisar o texto produzido, com a ajuda do professor e a colaboração dos colegas, para corrigi-lo e aprimorá-lo fazendo cortes, acréscimos, reformulações, correções de ortografia e pontuação. Edição de textos."
+            }
+          ]
+        },
+        {
+          "nome": "Oralidade",
+          "competencias": [
+            {
+              "codigo": "EF15LP19",
+              "tipo": "BNCC",
+              "descricao": "Recontar, oralmente, textos literários lidos pelo professor. x"
+            },
+            {
+              "codigo": "EF05LP18-EA",
+              "tipo": "EA",
+              "descricao": "Compartilhar oralmente histórias bíblicas, adequando a linguagem ao público-ouvinte e usando recursos entonacionais e de dramatização. x Oralidade em situação pública."
+            },
+            {
+              "codigo": "EF15LP09",
+              "tipo": "BNCC",
+              "descricao": "Expressar-se em situações de intercâmbio oral com clareza, preocupando-se em ser compreendido pelo interlocutor e usando a palavra com tom de voz audível, boa articulação e ritmo adequado. Escuta atenta."
+            },
+            {
+              "codigo": "EF15LP20-EA",
+              "tipo": "EA",
+              "descricao": "Escutar, com atenção e respeito, falas de pessoas (dentro e fora do espaço escolar), formulando perguntas pertinentes ao tema e solicitando esclarecimentos sempre que necessário. Compreensão de textos orais."
+            },
+            {
+              "codigo": "EF35LP19",
+              "tipo": "BNCC",
+              "descricao": "Recuperar as ideias principais em situações formais de escuta de exposições, apresenta ções e palestras. Conversação espontânea."
+            },
+            {
+              "codigo": "EF15LP11",
+              "tipo": "BNCC",
+              "descricao": "Reconhecer características da conversação espontânea presencial, respeitando os turnos de fala, selecionando e utilizando, durante a conversação, formas de tratamento adequadas, de acordo com a situação e a posição do interlocutor. 9 C (cotidiano); AL (artístico-literário); EP (estudo e pesquisa); VP (vida pública); JM (jornalístico-midiático)."
+            },
+            {
+              "codigo": "EF15LP12",
+              "tipo": "BNCC",
+              "descricao": "Atribuir significado a aspectos não linguísticos (paralinguísticos) observados na fala, como direção do olhar, riso, gestos, movimentos da cabeça (de concordância ou discordância), expressão corporal, tom de voz. Registro oral (formal e informal)."
+            },
+            {
+              "codigo": "EF15LP13",
+              "tipo": "BNCC",
+              "descricao": "Identificar finalidades da interação oral em diferentes contextos comunicativos (solicitar informações, apresentar opiniões, informar, relatar experiências). Forma de composição dos gêneros orais."
+            },
+            {
+              "codigo": "EF35LP10",
+              "tipo": "BNCC",
+              "descricao": "Identificar gêneros do discurso oral, utilizados em diferentes situações e contextos comunicativos, e suas características linguísti co-expressivas e composicionais (conversação espontânea, conversação telefônica, entrevistas pessoais, entrevistas no rádio ou na TV, debate, noticiário de rádio e TV, narração de jogos esporti vos no rádio e na TV, aula, debate). Variação linguística."
+            },
+            {
+              "codigo": "EF35LP11",
+              "tipo": "BNCC",
+              "descricao": "Ouvir gravações, canções, textos falados em variedades linguísticas, identificando características regionais, urbanas e rurais da fala e respeitando as diversas variedades linguísticas como características do uso da língua por diferentes grupos regionais ou diferentes culturas locais, rejeitando preconceitos linguísticos. Planejamento e produção de textos orais."
+            },
+            {
+              "codigo": "EF05LP19-EA",
+              "tipo": "EA",
+              "descricao": "Planejar, elaborar e apresentar di ferentes gêneros orais que circulam no contexto regional. x Leitura Condições de produção e recepção de textos."
+            }
+          ]
+        },
+        {
+          "nome": "Leitura",
+          "competencias": [
+            {
+              "codigo": "EF15LP01",
+              "tipo": "BNCC",
+              "descricao": "Identificar a função social de textos que circulam em campos da vida social dos quais participa cotidianamente (a casa, a rua, a comunidade, a escola) e nas mídias impressa e digital, reconhecendo para que foram produzidos, onde circulam, quem os produziu e a quem se destinam. Estratégia de leitura."
+            },
+            {
+              "codigo": "EF15LP02",
+              "tipo": "BNCC",
+              "descricao": "Estabelecer expectativas em relação ao texto que vai ler (pressuposições antecipadoras dos sentidos, da forma e da função social do texto), apoiando-se em seus conhecimentos prévios sobre as condições de produção e recepção desse texto, o gênero, o suporte e o universo temático, bem como sobre a forma textual, recursos gráficos, imagens, dados da própria obra (índice, prefácio, etc.), confirmando antecipações e inferências realizadas antes e durante a leitura de textos, checando a adequação das hipóteses realizadas."
+            },
+            {
+              "codigo": "EF35LP32-EA",
+              "tipo": "EA",
+              "descricao": "Localizar informações explícitas e analisar ideias implícitas nos gêneros selecionados para estudo."
+            },
+            {
+              "codigo": "EF15LP04",
+              "tipo": "BNCC",
+              "descricao": "Identificar o efeito de sentido produzido pelo uso de recursos expressivos gráfico-visuais em textos multissemióticos. x x"
+            },
+            {
+              "codigo": "EF35LP05",
+              "tipo": "BNCC",
+              "descricao": "Inferir o sentido de palavras ou expressões desconhecidas em textos, com base no contexto da frase ou do texto."
+            },
+            {
+              "codigo": "EF35LP06",
+              "tipo": "BNCC",
+              "descricao": "Recuperar relações entre partes de um texto, identificando substituições lexicais (de substantivos por sinônimos) ou pronominais (uso de pronomes anafóricos–pessoais, possessivos, de monstrativos) que contribuem para a continuidade do texto. Leitura de imagens em narrativas visuais."
+            },
+            {
+              "codigo": "EF15LP14",
+              "tipo": "BNCC",
+              "descricao": "Construir o sentido de histórias em quadrinhos e tirinhas, relacionando imagens e palavras e interpretando recursos gráficos (tipos de balões, de letras, onomatopeias). Formação do leitor literário (apreciação estética)."
+            },
+            {
+              "codigo": "EF15LP15",
+              "tipo": "BNCC",
+              "descricao": "Reconhecer que os textos literários fazem parte do mundo do imaginário e apresentam uma dimensão lúdica, de encantamento, valorizando-os, em sua diversidade cultural, como patrimônio artístico da humanidade. x x"
+            },
+            {
+              "codigo": "EF05LP20-EA",
+              "tipo": "EA",
+              "descricao": "Ouvir, ler, apreciar e analisar sal mos, provérbios, letras de canções, devocionais e outros textos voltados ao desenvolvimento espiri tual, expressando predileções e gostos literários em tal contexto. x x"
+            },
+            {
+              "codigo": "EF15LP17",
+              "tipo": "BNCC",
+              "descricao": "Apreciar poemas visuais e concretos, observando efeitos de sentido criados pelo formato do texto na página, pela distribuição e diagramação das letras, pelas ilustrações e por outros efeitos visuais. x"
+            },
+            {
+              "codigo": "EF15LP18",
+              "tipo": "BNCC",
+              "descricao": "Relacionar texto com ilustrações e outros recursos gráficos."
+            },
+            {
+              "codigo": "EF35LP21",
+              "tipo": "BNCC",
+              "descricao": "Ler e compreender, de forma autônoma, textos literários de diferentes gêneros e extensões, inclusive aqueles sem ilustrações, estabelecendo preferências por gêneros, temas e autores. x"
+            },
+            {
+              "codigo": "EF35LP02",
+              "tipo": "BNCC",
+              "descricao": "Selecionar livros da biblioteca e/ou do cantinho de leitura da sala de aula e/ou disponíveis em meios digitais para leitura individual, justificando a escolha e compartilhando com os colegas sua opinião, após a leitura."
+            },
+            {
+              "codigo": "EF35LP22",
+              "tipo": "BNCC",
+              "descricao": "Perceber diálogos em textos narrativos, observando o efeito de sentido de verbos de enunciação e, se for o caso, o uso de variedades linguísticas no discurso direto. x"
+            },
+            {
+              "codigo": "EF35LP23",
+              "tipo": "BNCC",
+              "descricao": "Apreciar poemas e outros textos versi ficados, observando rimas, aliterações e diferentes modos de divisão dos versos, estrofes e refrões e seu efeito de sentido. x"
+            },
+            {
+              "codigo": "EF05LP21-EA",
+              "tipo": "EA",
+              "descricao": "Apreciar salmos e provérbios, considerando a dimensão poética estrutural e linguística de tais gêneros textuais. x Textos dramáticos."
+            },
+            {
+              "codigo": "EF35LP24",
+              "tipo": "BNCC",
+              "descricao": "Identificar funções do texto dramático (escrito para ser encenado) e sua organização por meio de diálogos entre personagens e marcadores das falas dos personagens e de cena. x Decodificação/ fluência de leitura."
+            },
+            {
+              "codigo": "EF35LP33-EA",
+              "tipo": "EA",
+              "descricao": "Ler e compreender silenciosamente e, em seguida, em voz alta, com autonomia e fluência, diferentes gêneros textuais, analisando a finalidade e a estrutura do texto na prática de leitura. Compreensão em leitura."
+            },
+            {
+              "codigo": "EF35LP03",
+              "tipo": "BNCC",
+              "descricao": "Identificar a ideia central do texto, de monstrando compreensão global."
+            },
+            {
+              "codigo": "EF05LP09",
+              "tipo": "BNCC",
+              "descricao": "Ler e compreender, com autonomia, textos instrucionais de regras de jogo, dentre outros gêneros do campo da vida cotidiana, de acordo com as convenções do gênero e considerando situação comunicativa e a finalidade do texto. x"
+            },
+            {
+              "codigo": "EF15LP21-EA",
+              "tipo": "EA",
+              "descricao": "Ler e compreender, em colabora ção com colegas, familiares e professores, textos devocionais, orações, sermões, conselhos, provér bios e outros textos cotidianos em prol da forma ção espiritual. x"
+            },
+            {
+              "codigo": "EF05LP10",
+              "tipo": "BNCC",
+              "descricao": "Ler e compreender, com autonomia, anedotas, piadas e cartuns, dentre outros gêneros do campo da vida cotidiana, de acordo com as convenções do gênero e considerando a situação comunicativa e a finalidade do texto. x x"
+            },
+            {
+              "codigo": "EF05LP15",
+              "tipo": "BNCC",
+              "descricao": "Ler/assistir e compreender, com autonomia, notícias, reportagens, vídeos em vlogs argu mentativos, dentre outros gêneros do campo da vida pública, de acordo com as convenções dos gêneros e considerando a situação comunicativa e o tema/ assunto do texto. x"
+            },
+            {
+              "codigo": "EF05LP16",
+              "tipo": "BNCC",
+              "descricao": "Comparar informações sobre um mesmo fato veiculadas em diferentes mídias e concluir sobre qual é mais confiável e por quê. x"
+            },
+            {
+              "codigo": "EF05LP22",
+              "tipo": "BNCC",
+              "descricao": "Ler e compreender verbetes de dicionário, identificando a estrutura, as informações gramaticais (significado de abreviaturas) e as informações semânticas. Pesquisa."
+            },
+            {
+              "codigo": "EF35LP17",
+              "tipo": "BNCC",
+              "descricao": "Buscar e selecionar, com o apoio do professor, informações de interesse sobre fenômenos sociais e naturais, em textos que circulam em meios impressos ou digitais. x x"
+            },
+            {
+              "codigo": "EF05LP23",
+              "tipo": "BNCC",
+              "descricao": "Comparar informações apresentadas em gráficos ou tabelas. Análise linguística e semiótica Ortografia."
+            }
+          ]
+        },
+        {
+          "nome": "Análise linguística e semiótica",
+          "competencias": [
+            {
+              "codigo": "EF35LP12",
+              "tipo": "BNCC",
+              "descricao": "Recorrer ao dicionário para esclarecer dúvida sobre a escrita de palavras, especialmente no caso de palavras com relações irregulares de fonema–grafema. x"
+            },
+            {
+              "codigo": "EF05LP01",
+              "tipo": "BNCC",
+              "descricao": "Grafar palavras utilizando regras de correspondência regulares, contextuais e morfológicas de fonema–grafema, e palavras de uso frequente com correspondências irregulares."
+            },
+            {
+              "codigo": "EF05LP02",
+              "tipo": "BNCC",
+              "descricao": "Identificar o caráter polissêmico das palavras (uma mesma palavra com diferentes significados) de acordo com o contexto de uso, comparando o significado de determinados termos utilizados nas áreas científicas com esses mesmos termos utilizados na linguagem usual."
+            },
+            {
+              "codigo": "EF35LP13",
+              "tipo": "BNCC",
+              "descricao": "Memorizar a grafia de palavras de uso frequente, nas quais as relações de fonema–grafema são irregulares e com H inicial, que não representa fonema. Acentuação."
+            },
+            {
+              "codigo": "EF05LP03",
+              "tipo": "BNCC",
+              "descricao": "Acentuar corretamente palavras oxíto nas, paroxítonas e proparoxítonas. Pontuação."
+            },
+            {
+              "codigo": "EF05LP04",
+              "tipo": "BNCC",
+              "descricao": "Diferenciar, na leitura de textos, vírgula, ponto e vírgula, dois-pontos e reconhecer, na leitura de textos, o efeito de sentido que decorre do uso de reticências, aspas e parênteses. Morfologia."
+            },
+            {
+              "codigo": "EF05LP05",
+              "tipo": "BNCC",
+              "descricao": "Identificar a expressão de presente, passado e futuro em tempos verbais do modo indicativo."
+            },
+            {
+              "codigo": "EF35LP14",
+              "tipo": "BNCC",
+              "descricao": "Identificar em textos e usar na produção textual pronomes pessoais, possessivos e demonstrativos, como recurso coesivo anafórico."
+            },
+            {
+              "codigo": "EF05LP06",
+              "tipo": "BNCC",
+              "descricao": "Flexionar, adequadamente, na escrita e na oralidade, os verbos em concordância com pronomes pessoais/nomes sujeitos da oração."
+            },
+            {
+              "codigo": "EF05LP08",
+              "tipo": "BNCC",
+              "descricao": "Diferenciar palavras primitivas, deriva das e compostas, e derivadas por adição de prefixo e de sufixo. Morfossintaxe."
+            },
+            {
+              "codigo": "EF05LP07",
+              "tipo": "BNCC",
+              "descricao": "Identificar, em textos, o uso de conjunções e a relação que estabelecem entre partes do texto: adição, oposição, tempo, causa, condição, finalidade. Forma de composição do texto."
+            },
+            {
+              "codigo": "EF05LP14",
+              "tipo": "BNCC",
+              "descricao": "Identificar e reproduzir, em textos de resenha crítica de brinquedos ou livros de literatura infantil, a formatação própria desses textos (apresentação e avaliação do produto)."
+            },
+            {
+              "codigo": "EF05LP20",
+              "tipo": "BNCC",
+              "descricao": "Analisar a validade e a força de argu mentos sobre produtos de mídia para o público infantil (filmes, desenhos animados, HQs, games, etc.). x"
+            },
+            {
+              "codigo": "EF35LP16",
+              "tipo": "BNCC",
+              "descricao": "Identificar e reproduzir, em notícias, manchetes, lides e corpo de notícias para o público infantil e cartas de reclamação (revista infantil), digitais ou impressos, as características específicas de cada um desses gêneros, inclusive em suas versões orais. x x"
+            },
+            {
+              "codigo": "EF05LP22-EA",
+              "tipo": "EA",
+              "descricao": "Analisar o padrão entonacional, a expressão facial e corporal, as escolhas de variedade e os registros linguísticos de textos midiáticos opinativos ou argumentativos. Adequação do texto às normas de escrita."
+            },
+            {
+              "codigo": "EF05LP26",
+              "tipo": "BNCC",
+              "descricao": "Utilizar, ao produzir o texto, conhecimentos linguísticos: regras sintáticas de concordância nominal e verbal, convenções de escrita de citações, pontuação (ponto-final, dois-pontos, vírgulas em enumerações) e regras ortográficas. x Coesão e articuladores."
+            },
+            {
+              "codigo": "EF05LP27",
+              "tipo": "BNCC",
+              "descricao": "Utilizar, ao produzir o texto, recursos de coesão pronominal (pronomes anafóricos) e articuladores de relações de sentido (tempo, causa, oposição, conclusão, comparação), com nível adequado de informatividade. Formas de composição de narrativas."
+            },
+            {
+              "codigo": "EF35LP29",
+              "tipo": "BNCC",
+              "descricao": "Identificar, em narrativas, cenário, per sonagem central, conflito gerador, resolução e o ponto de vista com base no qual histórias são narradas, diferenciando narrativas em primeira e terceira pessoas. x Forma de composição de textos poéticos."
+            },
+            {
+              "codigo": "EF35LP31",
+              "tipo": "BNCC",
+              "descricao": "Identificar, em textos versificados, efeitos de sentido decorrentes do uso de recursos rítmicos e sonoros e de metáforas. x"
+            },
+            {
+              "codigo": "EF05LP28",
+              "tipo": "BNCC",
+              "descricao": "Observar, em ciberpoemas e minicontos infantis em mídia, os recursos multissemióticos presentes em textos digitais. x Discurso direto e indireto."
+            },
+            {
+              "codigo": "EF35LP30",
+              "tipo": "BNCC",
+              "descricao": "Diferenciar discurso indireto de discurso direto, determinando o efeito de sentido de verbos de enunciação e explicando o uso de variedades linguísticas no discurso direto, quando for o caso. Produção de textos Convenções da escrita."
+            }
+          ]
+        }
+      ]
+    },
+    "matematica": {
+      "nome_display": "MATEMÁTICA",
+      "categorias": [
+        {
+          "nome": "Números",
+          "competencias": [
+            {
+              "codigo": "EF05MA04",
+              "tipo": "BNCC",
+              "descricao": "Identificar frações equivalentes."
+            },
+            {
+              "codigo": "EF05MA05",
+              "tipo": "BNCC",
+              "descricao": "Comparar e ordenar números racionais positivos (representações fracionária e decimal), relacionando-os a pontos na reta numérica. Cálculo de porcentagens e representação fracionária. Relação entre fração decimal, número decimal e porcentagem. Frações de quantidades discretas e contínuas."
+            },
+            {
+              "codigo": "EF05MA06",
+              "tipo": "BNCC",
+              "descricao": "Associar as representações 10%, 25%, 50%, 75% e 100% respectivamente à décima parte, quarta parte, metade, três quartos e um inteiro, para calcular porcentagens, utilizando estratégias pessoais, cálculo mental e calculadora, em contextos de educação financeira, entre outros. (EF05MA06.1-EA) Resolver e elaborar problemas envolvendo a determinação de porcentagens com a escrita decimal de cédulas e moedas do sistema monetário brasileiro, utilizando diferentes estratégias, como o cálculo mental, a estimativa e a calculadora. Problemas: adição e subtração de números naturais e números racionais cuja representação decimal é finita."
+            },
+            {
+              "codigo": "EF05MA07",
+              "tipo": "BNCC",
+              "descricao": "Resolver e elaborar problemas de adição e sub tração com números naturais e com números racionais, cuja representação decimal seja finita, utilizando estratégias diversas, como cálculo por estimativa, cálculo mental e algoritmos. Problemas: multiplicação e divisão de números racionais cuja representação decimal é finita por números naturais."
+            },
+            {
+              "codigo": "EF05MA08",
+              "tipo": "BNCC",
+              "descricao": "Resolver e elaborar problemas de multiplicação e divisão com números naturais e com números racionais cuja representação decimal é finita (com multiplicador natural e divisor natural e diferente de zero), utilizando estratégias diversas, como cálculo por estimativa, cálculo mental e algoritmos. (EF05MA08.1-EA) Realizar em problemas cálculos de multiplicação e divisão de números decimais por 10, 100 e 1 000, observando regularidades (deslocamento da vírgula) que permitam sua memorização. Problemas de contagem do tipo: “Se cada objeto de uma coleção A for combinado com todos os elementos de uma coleção B, quantos agrupamentos desse tipo podem ser formados?”"
+            },
+            {
+              "codigo": "EF05MA09",
+              "tipo": "BNCC",
+              "descricao": "Resolver e elaborar problemas simples de con tagem envolvendo o princípio multiplicativo, como a determinação do número de agrupamentos possíveis ao se combinar cada elemento de uma coleção com todos os elementos de outra coleção, por meio de diagramas de árvore ou por tabelas. Álgebra Propriedades da igualdade e noção de equivalência."
+            }
+          ]
+        },
+        {
+          "nome": "Álgebra",
+          "competencias": [
+            {
+              "codigo": "EF05MA10",
+              "tipo": "BNCC",
+              "descricao": "Concluir, por meio de investigações, que a rela ção de igualdade existente entre dois membros permanece ao adicionar, subtrair, multiplicar ou dividir cada um desses membros por um mesmo número, para construir a noção de equivalência."
+            },
+            {
+              "codigo": "EF05MA11",
+              "tipo": "BNCC",
+              "descricao": "Resolver e elaborar problemas cuja conversão em sentença matemática seja uma igualdade com uma operação em que um dos termos é desconhecido. (EF05MA11.1-EA) Determinar valores que tornam uma desigualdade verdadeira, envolvendo operações com números naturais."
+            },
+            {
+              "codigo": "EF05MA12",
+              "tipo": "BNCC",
+              "descricao": "Resolver problemas que envolvam variação de proporcionalidade direta entre duas grandezas, para associar a quantidade de um produto ao valor a pagar, alterar as quantidades de ingredientes de receitas, ampliar ou reduzir escala em mapas, entre outros. Problemas envolvendo a parti ção de um todo em duas partes proporcionais."
+            },
+            {
+              "codigo": "EF05MA13",
+              "tipo": "BNCC",
+              "descricao": "Resolver problemas envolvendo a partilha de uma quantidade em duas partes desiguais, tais como di vidir uma quantidade em duas partes, de modo que uma seja o dobro da outra, com compreensão da ideia de razão entre as partes e delas com o todo. Geometria Plano cartesiano: coordenadas cartesianas (1º quadrante) e representação de deslocamentos no plano cartesiano."
+            }
+          ]
+        },
+        {
+          "nome": "Geometria",
+          "competencias": [
+            {
+              "codigo": "EF05MA14",
+              "tipo": "BNCC",
+              "descricao": "Utilizar e compreender diferentes representações para a localização de objetos no plano, como mapas, células em planilhas eletrônicas e coordenadas geográficas, a fim de desenvolver as primeiras noções de coordenadas cartesianas. Relações espaciais de posição, localização, direção, distância, perspectiva (orientação espacial e visualização espacial)."
+            },
+            {
+              "codigo": "EF05MA15",
+              "tipo": "BNCC",
+              "descricao": "Interpretar, descrever e representar a localização ou movimentação de objetos no plano cartesiano (1º quadrante), utilizando coordenadas cartesianas, indicando mudanças de direção e de sentido e giros. Figuras geométricas espaciais: reconhecimento, representações, planificações e características."
+            },
+            {
+              "codigo": "EF05MA16",
+              "tipo": "BNCC",
+              "descricao": "Associar figuras espaciais e suas planificações (prismas, pirâmides, cilindros e cones) e analisar, nomear seus atributos. Figuras geométricas planas: características, representações e ângulos."
+            },
+            {
+              "codigo": "EF05MA17",
+              "tipo": "BNCC",
+              "descricao": "Reconhecer, nomear e comparar polígonos, considerando lados, vértices e ângulos, e desenhá-los, utilizando material de desenho ou tecnologias digitais. (EF05MA17.1-EA) Compor e decompor polígonos concluindo que os mesmos podem ser compostos a partir de figuras triangulares. (EF05MA17.2-EA) Diferenciar visualmente ponto, reta e plano, bem como reta, semirreta e segmento de reta. (EF05MA17.3-EA) Visualizar e identificar ângulos em um plano qualquer e/ou nos cantos de figuras e objetos. (EF05MA17.4-EA) Observar e identificar diferentes tipos de retas em mapas, labirintos, ruas e demais situações cotidianas, diferenciando-as a partir de suas posições (horizontal, vertical e inclinada) em relação a algum referencial. Ampliação e redução de figuras poligonais em malhas quadriculadas: reconhecimento da congruência dos ângulos e da proporcionalidade dos lados correspondentes."
+            },
+            {
+              "codigo": "EF05MA18",
+              "tipo": "BNCC",
+              "descricao": "Reconhecer a congruência dos ângulos e a pro porcionalidade entre os lados correspondentes de figuras poligonais em situações de ampliação e de redução em malhas quadriculadas e usando tecnologias digitais."
+            }
+          ]
+        },
+        {
+          "nome": "Grandezas e medidas",
+          "competencias": [
+            {
+              "codigo": "EF05MA19",
+              "tipo": "BNCC",
+              "descricao": "Resolver e elaborar problemas envolvendo me didas das grandezas comprimento, área, massa, tempo, temperatura e capacidade, recorrendo a transformações entre as unidades mais usuais em contextos socioculturais. (EF05MA19.1-EA) Reconhecer o Sistema Internacional de Unidades (SI) como essencial e facilitador nas transações comerciais e na comunicação entre civilizações e países distintos. Áreas e perímetros de figuras poligonais: algumas relações."
+            },
+            {
+              "codigo": "EF05MA20",
+              "tipo": "BNCC",
+              "descricao": "Concluir, por meio de investigações, que figuras de perímetros iguais podem ter áreas diferentes e que, também, figuras de mesma área podem ter perímetros diferentes. Noção de volume."
+            },
+            {
+              "codigo": "EF05MA21",
+              "tipo": "BNCC",
+              "descricao": "Reconhecer volume como grandeza associada a sólidos geométricos e medir volumes por meio de empi lhamento de cubos, utilizando, preferencialmente, objetos concretos. (EF05MA21.1-EA) Construir a ideia de volume em blocos retangulares a partir da multiplicação das suas três dimensões. (EF05MA21.2-EA) Perceber a unidimensionalidade, a bidimensionalidade e a tridimensionalidade em medidas cotidianas de perímetro, área e volume, respectivamente. Probabilidade e estatística Espaço amostral: análise de chances de eventos aleatórios."
+            }
+          ]
+        },
+        {
+          "nome": "Probabilidade e estatística",
+          "competencias": [
+            {
+              "codigo": "EF05MA22",
+              "tipo": "BNCC",
+              "descricao": "Apresentar todos os possíveis resultados de um experimento aleatório, indicando se esses resultados são igualmente prováveis ou não, ou seja, quando todos os resultados possíveis têm a mesma chance de ocorrer ou não. Cálculo de probabilidade de eventos equiprováveis: chance ou probabilidade."
+            },
+            {
+              "codigo": "EF05MA23",
+              "tipo": "BNCC",
+              "descricao": "Determinar a probabilidade de ocorrência de um resultado em eventos aleatórios, quando todos os resultados possíveis têm a mesma chance de ocorrer (equiprováveis). Leitura, coleta, classificação interpretação e representação de dados em tabelas de dupla entrada, gráfico de colunas agrupadas, gráficos pictóricos e gráfico de linhas."
+            },
+            {
+              "codigo": "EF05MA24",
+              "tipo": "BNCC",
+              "descricao": "Interpretar dados estatísticos apresentados em textos, tabelas e gráficos (colunas ou linhas), referentes a outras áreas do conhecimento ou a outros contextos, como saúde e trânsito, e produzir textos com o objetivo de sinte tizar conclusões."
+            },
+            {
+              "codigo": "EF05MA25",
+              "tipo": "BNCC",
+              "descricao": "Realizar pesquisa envolvendo variáveis categóricas e numéricas, organizar dados coletados por meio de ta belas, gráficos de colunas, pictóricos e de linhas, com e sem uso de tecnologias digitais, e apresentar texto escrito sobre a finalidade da pesquisa e a síntese dos resultados."
+            }
+          ]
+        }
+      ]
+    },
+    "ciencias": {
+      "nome_display": "CIÊNCIAS",
+      "categorias": [
+        {
+          "nome": "Terra e Universo",
+          "competencias": [
+            {
+              "codigo": "EF05CI01",
+              "tipo": "BNCC",
+              "descricao": "Explorar fenômenos da vida cotidiana que evidenciem propriedades físicas dos materiais – como densidade, condutibilidade térmica e elétrica, respostas a forças magnéticas, solubilidade, respostas a forças mecânicas (dureza, elasticidade, etc.), entre outras."
+            },
+            {
+              "codigo": "EF05CI02",
+              "tipo": "BNCC",
+              "descricao": "Aplicar os conhecimentos sobre as mudanças de estado físico da água para explicar o ciclo hidrológico e analisar suas implicações na agricultura, no clima, na geração de energia elétrica, no provimento de água potável e no equilíbrio dos ecossistemas regionais (ou locais)."
+            },
+            {
+              "codigo": "EF05CI03",
+              "tipo": "BNCC",
+              "descricao": "Selecionar argumento que justifiquem a importância da cobertura vegetal para a manutenção do ciclo da água, a conservação dos solos, dos cursos de água e da qualidade do ar atmosférico."
+            },
+            {
+              "codigo": "EF05CI04",
+              "tipo": "BNCC",
+              "descricao": "Identificar os principais usos da água e de outros materiais nas atividades cotidianas para discutir e propor formas sustentáveis de utilização desses recursos."
+            },
+            {
+              "codigo": "EF05CI05",
+              "tipo": "BNCC",
+              "descricao": "Construir propostas coletivas para um consumo mais consciente e criar soluções tecnológicas para o descarte adequado e a reutilização ou reciclagem de materiais consumidos na escola e/ou na vida cotidiana."
+            },
+            {
+              "codigo": "EF05CI14-EA",
+              "tipo": "EA",
+              "descricao": "Compreender a grande importância da cobertura vegetal para a manutenção do ciclo da água, para a conservação do solo, dos corpos de água e da qualidade do ar atmosférico. (EF05CI14.1-EA) Relacionar o ciclo hidrológico com fenômenos naturais que envolvem sensações térmicas que influenciam diretamente nas condições climáticas globais e locais. Vida e evolução Nutrição do organismo. Hábitos alimentares. Integração entre os sistemas digestório, respiratório e circulatório."
+            }
+          ]
+        },
+        {
+          "nome": "Vida e evolução",
+          "competencias": [
+            {
+              "codigo": "EF05CI06",
+              "tipo": "BNCC",
+              "descricao": "Selecionar argumentos que justifiquem por que os sistemas digestório e respiratório são considerados corresponsáveis pelo processo de nutrição do organismo, com base na identificação das funções desses sistemas."
+            },
+            {
+              "codigo": "EF05CI07",
+              "tipo": "BNCC",
+              "descricao": "Justificar a relação entre o funcionamento do sistema circulatório, a distribuição dos nutrientes pelo organismo e a eliminação dos resíduos produzidos."
+            }
+          ]
+        }
+      ]
+    },
+    "geografia": {
+      "nome_display": "GEOGRAFIA",
+      "categorias": [
+        {
+          "nome": "O sujeito e seu lugar no mundo",
+          "competencias": [
+            {
+              "codigo": "EF05GE01",
+              "tipo": "BNCC",
+              "descricao": "Descrever e analisar dinâmicas populacionais na Unidade da Federação em que vive, estabelecendo relações entre migrações e condições de infraestrutura. (EF05GE01.1-EA) Analisar os índices populacionais e de desenvolvimento da sua Unidade de Federação com base no Censo Demográfico. Diferenças étnico-raciais e étnico-culturais e desigualdades sociais."
+            },
+            {
+              "codigo": "EF05GE02",
+              "tipo": "BNCC",
+              "descricao": "Identificar diferenças étnico-raciais e étnico-culturais e desigualdades sociais entre grupos em diferentes territórios. (EF05GE02.1-EA) Reconhecer a diversidade étnica e cultural da população brasileira, compreendendo a importância da miscigenação de diferentes etnias (indígenas, africanas, de imigrantes) para a formação da sociedade brasileira. Conexões e escalas Território, redes e urbanização."
+            }
+          ]
+        },
+        {
+          "nome": "Conexões e escalas",
+          "competencias": [
+            {
+              "codigo": "EF05GE03",
+              "tipo": "BNCC",
+              "descricao": "Identificar as formas e funções das cidades e analisar as mudanças sociais, econômicas e ambientais provocadas pelo seu crescimento."
+            },
+            {
+              "codigo": "EF05GE04",
+              "tipo": "BNCC",
+              "descricao": "Reconhecer as características da cidade e analisar as interações entre a cidade e o campo e entre cidades na rede urbana. Mundo do trabalho Trabalho e inovação tecnológica."
+            }
+          ]
+        },
+        {
+          "nome": "Mundo do trabalho",
+          "competencias": [
+            {
+              "codigo": "EF05GE05",
+              "tipo": "BNCC",
+              "descricao": "Identificar e comparar as mudanças dos tipos de trabalho e desenvolvimento tecnológico na agropecuária, na indústria, no comércio e nos serviços."
+            },
+            {
+              "codigo": "EF05GE06",
+              "tipo": "BNCC",
+              "descricao": "Identificar e comparar transformações dos meios de transporte e de comunicação."
+            },
+            {
+              "codigo": "EF05GE07",
+              "tipo": "BNCC",
+              "descricao": "Identificar os diferentes tipos de energia utilizados na produção industrial, agrícola e extrativa e no cotidiano das populações. Formas de representação e pensamento espacial Mapas e imagens de satélite."
+            }
+          ]
+        },
+        {
+          "nome": "Formas de representação",
+          "competencias": [
+            {
+              "codigo": "EF05GE08",
+              "tipo": "BNCC",
+              "descricao": "Analisar transformações de paisagens nas cidades, comparando sequência de fotografias, fotografias aéreas e imagens de satélite de épocas diferentes. Representação das cidades e do espaço urbano."
+            },
+            {
+              "codigo": "EF05GE09",
+              "tipo": "BNCC",
+              "descricao": "Estabelecer conexões e hierarquias entre diferentes cidades, utilizando mapas temáticos e representações gráficas. Natureza, ambientes e qualidade de vida Qualidade ambiental."
+            }
+          ]
+        },
+        {
+          "nome": "Natureza, ambientes e qualidade de vida",
+          "competencias": [
+            {
+              "codigo": "EF05GE10",
+              "tipo": "BNCC",
+              "descricao": "Reconhecer e comparar atributos da qualidade ambiental e algumas formas de poluição dos cursos de água e dos oceanos (esgotos, efluentes industriais, marés negras, etc.). Diferentes tipos de poluição."
+            },
+            {
+              "codigo": "EF05GE11",
+              "tipo": "BNCC",
+              "descricao": "Identificar e descrever problemas ambientais que ocorrem no entorno da escola e da residência (lixões, indústrias poluentes, destruição do patrimônio histórico, etc.), propondo soluções (inclusive tecnológicas) para esses problemas. Gestão pública da qualidade de vida."
+            },
+            {
+              "codigo": "EF05GE12",
+              "tipo": "BNCC",
+              "descricao": "Identificar órgãos do poder público e canais de participação social responsáveis por buscar soluções para a melhoria da qualidade de vida (em áreas como meio ambiente, mobilidade, moradia e direito à cidade) e discutir as propostas implementadas por esses órgãos que afetam a comunidade em que vive."
+            }
+          ]
+        }
+      ]
+    },
+    "historia": {
+      "nome_display": "HISTÓRIA",
+      "categorias": [
+        {
+          "nome": "Povos e culturas",
+          "competencias": [
+            {
+              "codigo": "EF05HI04",
+              "tipo": "BNCC",
+              "descricao": "Associar a noção de cidadania com os princípios de respeito à diversidade, à pluralidade e aos direitos humanos."
+            },
+            {
+              "codigo": "EF05HI05",
+              "tipo": "BNCC",
+              "descricao": "Associar o conceito de cidadania à conquista de direitos dos povos e das sociedades, compreendendo-o como conquista histórica. (EF05HI05.1-EA) Conhecer exemplos de direitos e deveres básicos de um cidadão. (EF05HI05.2-EA) Comparar o ensinamento bíblico de que todos são iguais perante Deus com a noção de direitos humanos. (EF05HI05.3-EA) Reconhecer o respeito à liberdade de consciência como importante princípio de cidadania. (EF05HI05.4-EA) Demonstrar sensibilidade para com as necessidades alheias e tomar medidas, ao seu alcance, para atendê-las, como uma das formas de exercer a cidadania. Registros da história: linguagens e culturas As tradições orais e a valorização da memória. O surgimento da escrita e a noção de fonte para a transmissão de saberes, culturas e histórias. (EF1926.FE-EA) Primar pela veracidade na disseminação de informações (Colossenses 3:12)."
+            }
+          ]
+        },
+        {
+          "nome": "Registros da história",
+          "competencias": [
+            {
+              "codigo": "EF05HI06",
+              "tipo": "BNCC",
+              "descricao": "Comparar o uso de diferentes linguagens e tecnologias no processo de comunicação e avaliar os significados sociais, políticos e culturais atribuídos a elas."
+            },
+            {
+              "codigo": "EF05HI07",
+              "tipo": "BNCC",
+              "descricao": "Identificar os processos de produção, hierarquização e difusão dos marcos de memória e discutir a presença e/ou a ausência de diferentes grupos que compõem a sociedade na nomeação desses marcos de memória."
+            },
+            {
+              "codigo": "EF05HI08",
+              "tipo": "BNCC",
+              "descricao": "Identificar formas de marcação da passagem do tempo em distintas sociedades, incluindo os povos indígenas originários e os povos africanos."
+            },
+            {
+              "codigo": "EF05HI09",
+              "tipo": "BNCC",
+              "descricao": "Comparar pontos de vista sobre temas que impactam a vida cotidiana no tempo presente, por meio do acesso a diferentes fontes, incluindo orais. (EF05HI09.1-EA) Analisar o sentido do uso ético das diferentes formas de comunicação, como a televisão, a internet e as redes sociais. Os patrimônios materiais e imateriais da humanidade."
+            },
+            {
+              "codigo": "EF05HI10",
+              "tipo": "BNCC",
+              "descricao": "Inventariar os patrimônios materiais e imateriais da humanidade e analisar mudanças e permanências desses patrimônios ao longo do tempo."
+            }
+          ]
+        }
+      ]
+    },
+    "ensino_religioso": {
+      "nome_display": "ENSINO REL.",
+      "categorias": [
+        {
+          "nome": "Deus e eu",
+          "competencias": [
+            {
+              "codigo": "EF05ER01-EA",
+              "tipo": "EA",
+              "descricao": "Aceitar o chamado de Jesus para segui-Lo. Relacionamento com Deus."
+            },
+            {
+              "codigo": "EF05ER02-EA",
+              "tipo": "EA",
+              "descricao": "Mostrar interesse em relacionar-se com Deus para conhecer a vontade Dele. Oração."
+            },
+            {
+              "codigo": "EF05ER03-EA",
+              "tipo": "EA",
+              "descricao": "Reconhecer a importância da oração como parte da confiança em Deus. Escolhas sábias."
+            },
+            {
+              "codigo": "EF05ER04-EA",
+              "tipo": "EA",
+              "descricao": "Reconhecer que o conhecimento da vontade de Deus, expresso na Bíblia, o ajuda a fazer escolhas sábias."
+            },
+            {
+              "codigo": "EF05ER05-EA",
+              "tipo": "EA",
+              "descricao": "Identificar o que é preciso mudar na vida com o auxílio do Espírito Santo. Estudo da Palavra."
+            },
+            {
+              "codigo": "EF05ER06-EA",
+              "tipo": "EA",
+              "descricao": "Perseverar no estudo da Bíblia para permanecer em Cristo. Vida com Jesus."
+            },
+            {
+              "codigo": "EF05ER07-EA",
+              "tipo": "EA",
+              "descricao": "Reconhecer que viver seguindo as orientações de Jesus traz a verdadeira felicidade e a alegria de servir. Volta de Jesus."
+            },
+            {
+              "codigo": "EF05ER08-EA",
+              "tipo": "EA",
+              "descricao": "Evidenciar disposição para preparar-se para a volta de Jesus. Deus, você e eu Autoconsciência."
+            }
+          ]
+        },
+        {
+          "nome": "Deus, você e eu",
+          "competencias": [
+            {
+              "codigo": "EF05ER09-EA",
+              "tipo": "EA",
+              "descricao": "Reconhecer o propósito que Deus tem para cada um."
+            },
+            {
+              "codigo": "EF05ER10-EA",
+              "tipo": "EA",
+              "descricao": "Expressar seus valores, metas e progresso pessoal, alinhados ao propósito de Deus."
+            },
+            {
+              "codigo": "EF05ER11-EA",
+              "tipo": "EA",
+              "descricao": "Realizar, a cada bimestre, autorreflexão sobre a sua vida e o alinhamento dela ao propósito de Deus. Tomada de decisões responsáveis."
+            },
+            {
+              "codigo": "EF05ER12-EA",
+              "tipo": "EA",
+              "descricao": "Assumir responsabilidade pelas pró prias ações, decisões e bem-estar."
+            },
+            {
+              "codigo": "EF05ER13-EA",
+              "tipo": "EA",
+              "descricao": "Realizar atividades que testemunhem a sua escolha de desenvolver segurança interior e autoestima."
+            },
+            {
+              "codigo": "EF05ER14-EA",
+              "tipo": "EA",
+              "descricao": "Manter o ânimo e a determinação no preparo para a volta de Jesus."
+            }
+          ]
+        },
+        {
+          "nome": "Discipulado",
+          "competencias": [
+            {
+              "codigo": "EF05ER15-EA",
+              "tipo": "EA",
+              "descricao": "Concluir que o envolvimento no serviço vem de um relacionamento íntimo com Deus."
+            },
+            {
+              "codigo": "EF05ER16-EA",
+              "tipo": "EA",
+              "descricao": "Demonstrar interesse por testemu nhar, na própria vida, o caráter de Cristo."
+            },
+            {
+              "codigo": "EF05ER17-EA",
+              "tipo": "EA",
+              "descricao": "Reconhecer e aproveitar as oportunidades diárias para testemunhar do amor de Deus."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

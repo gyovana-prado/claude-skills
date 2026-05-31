@@ -1,0 +1,101 @@
+{
+  "professora": "ADRIANA DOS SANTOS NEGRETTI",
+  "turma": "5º ANO - B",
+  "ano_letivo": 2026,
+  "status_confirmacao": "INFERIDA",
+  "instrucao_uso": "Esta grade foi INFERIDA a partir de um quinzenário antigo (abril/2025). Antes de usar a skill pela primeira vez na quinzena ATUAL, perguntar à Adriana se a grade está correta e atualizar este arquivo.",
+  "notas": "Grade fixa para o ano letivo. Matérias especiais (Ed. Física, Arte, Bilíngue, Cultura Maker, Cultura Geral) não precisam de detalhamento de conteúdo.",
+  "materias_especiais": ["ED. FÍSICA", "ARTE", "BILÍNGUE", "CULT. MAKER", "CULT. GERAL"],
+  "grade": {
+    "SEGUNDA": {
+      "dia_label": "SEGUNDA-FEIRA",
+      "aulas": [
+        {"numero": "1ª", "componente": "LING. PORT.", "horario": "07h-07h50"},
+        {"numero": "2ª", "componente": "BILÍNGUE", "horario": "07h50-08h50"},
+        {"numero": "3ª", "componente": "MATEMÁTICA", "horario": "09h10-10h"},
+        {"numero": "4ª", "componente": "CIÊNCIAS", "horario": "10h-10h40"},
+        {"numero": "5ª", "componente": "ED. FÍSICA", "horario": "10h40-11h30"}
+      ]
+    },
+    "TERCA": {
+      "dia_label": "TERÇA-FEIRA",
+      "aulas": [
+        {"numero": "1ª", "componente": "BILÍNGUE", "horario": "07h-07h50"},
+        {"numero": "2ª", "componente": "BILÍNGUE", "horario": "07h50-08h50"},
+        {"numero": "3ª", "componente": "ARTE", "horario": "09h10-10h"},
+        {"numero": "4ª", "componente": "LING. PORT.", "horario": "10h-10h40"},
+        {"numero": "5ª", "componente": "MATEMÁTICA", "horario": "10h40-11h30"}
+      ]
+    },
+    "QUARTA": {
+      "dia_label": "QUARTA-FEIRA",
+      "aulas": [
+        {"numero": "1ª", "componente": "LING. PORT.", "horario": "07h-07h50"},
+        {"numero": "2ª", "componente": "CIÊNCIAS", "horario": "07h50-08h50"},
+        {"numero": "3ª", "componente": "ENSINO REL.", "horario": "09h10-10h"},
+        {"numero": "4ª", "componente": "GEOGRAFIA", "horario": "10h-10h40"},
+        {"numero": "5ª", "componente": "HISTÓRIA", "horario": "10h40-11h30"}
+      ]
+    },
+    "QUINTA": {
+      "dia_label": "QUINTA-FEIRA",
+      "aulas": [
+        {"numero": "1ª", "componente": "LING. PORT.", "horario": "07h-07h50"},
+        {"numero": "2ª", "componente": "HISTÓRIA", "horario": "07h50-08h50"},
+        {"numero": "3ª", "componente": "MATEMÁTICA", "horario": "09h10-10h"},
+        {"numero": "4ª", "componente": "BILÍNGUE", "horario": "10h-10h40"},
+        {"numero": "5ª", "componente": "CULT. MAKER", "horario": "10h40-11h30"}
+      ]
+    },
+    "SEXTA": {
+      "dia_label": "SEXTA-FEIRA",
+      "aulas": [
+        {"numero": "1ª", "componente": "BILÍNGUE", "horario": "07h-07h50"},
+        {"numero": "2ª", "componente": "CULT. GERAL", "horario": "07h50-08h50"},
+        {"numero": "3ª", "componente": "MATEMÁTICA", "horario": "09h10-10h"},
+        {"numero": "4ª", "componente": "LING. PORT.", "horario": "10h-10h40"},
+        {"numero": "5ª", "componente": "ENSINO REL.", "horario": "10h40-11h30"}
+      ]
+    }
+  },
+  "contagem_aulas_semanais": {
+    "LING. PORT.": 5,
+    "MATEMÁTICA": 4,
+    "CIÊNCIAS": 2,
+    "HISTÓRIA": 2,
+    "GEOGRAFIA": 1,
+    "ENSINO REL.": 2,
+    "ED. FÍSICA": 1,
+    "ARTE": 1,
+    "BILÍNGUE": 5,
+    "CULT. MAKER": 1,
+    "CULT. GERAL": 1
+  },
+  "duracao_aula_minutos": 50,
+  "distribuicao_semanal_por_materia": {
+    "LING. PORT.": {
+      "slots_semana": ["SEG 1ª", "TER 4ª", "QUA 1ª", "QUI 1ª", "SEX 4ª"],
+      "slots_quinzena": 10
+    },
+    "MATEMÁTICA": {
+      "slots_semana": ["SEG 3ª", "TER 5ª", "QUI 3ª", "SEX 3ª"],
+      "slots_quinzena": 8
+    },
+    "CIÊNCIAS": {
+      "slots_semana": ["SEG 4ª", "QUA 2ª"],
+      "slots_quinzena": 4
+    },
+    "HISTÓRIA": {
+      "slots_semana": ["QUA 5ª", "QUI 2ª"],
+      "slots_quinzena": 4
+    },
+    "GEOGRAFIA": {
+      "slots_semana": ["QUA 4ª"],
+      "slots_quinzena": 2
+    },
+    "ENSINO REL.": {
+      "slots_semana": ["QUA 3ª", "SEX 5ª"],
+      "slots_quinzena": 4
+    }
+  }
+}
