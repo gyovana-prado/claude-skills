@@ -1,6 +1,6 @@
 ---
 name: semanario-adriana
-description: "Gera o semanário em Excel para a Professora Adriana (5º Ano B) parseando DOCX de plano de aula CPB. Use quando mencionar: semanário Adriana, quinzenário 5º ano, plano quinzenal 5º B."
+description: "Gera o semanário em Excel para a Professora Adriana (5º Ano B) a partir do catálogo de planos de aula no banco (sem DOCX) e registra o progresso dela. Use quando mencionar: semanário Adriana, quinzenário 5º ano, plano quinzenal 5º B."
 allowed-tools:
   - Read
   - Write
@@ -21,7 +21,26 @@ Gera a planilha Excel do semanário (planejamento quinzenal) para a Professora *
 - **Input fundamental**: a Adriana recebe **um DOCX por capítulo**, em formato narrativo (não tabela). As habilidades BNCC já vêm dentro do docx.
 - **Diferença chave vs Angela**: o desenvolvimento precisa ser **CONDENSADO** (parágrafos longos → 1-3 frases por aula)
 
-## Passo 0: Carregar referências
+## Modo padrão: catálogo no banco (sem PDF)
+
+**Desde out/2026 a skill não pede mais PDF/DOCX.** O percurso de todos os capítulos está no SurrealDB e o que a professora faz fica registrado lá. Seguir:
+
+```
+Read ${CLAUDE_PLUGIN_ROOT}/shared/catalogo-db.md
+```
+
+Turma: `turma:adriana_5b_2026`. Ciclo resumido:
+
+1. `onde-parei` → confirmar com a professora; o que ela disser vira `registrar --tipo dito_ao_agente` com a frase literal (prevalece sempre).
+2. Perguntar feriados/recessos do período → `turma feriados`.
+3. `quinzena --inicio --fim --saida /tmp/plano.json` → revisar com ela, editar o JSON se pedir.
+4. `excel` → `aprovar --plano /tmp/plano.json` → `enviada` se mandar para a coordenação.
+
+**5º ano: condensar depois de gerar.** No 5º ano o campo Desenvolvimento sai do catálogo com todos os parágrafos do plano de aula (introdução, desenvolvimento, conclusão). Depois de gerar, condensar cada um em `/tmp/plano.json` seguindo o Passo 4 (1-3 frases, literais preservados), mostrar para a Adriana validar e só então gerar o Excel. A grade dela está como INFERIDA: confirmar no primeiro uso (Passo 1) e, se mudar, reimportar com `turma importar`.
+
+Os Passos abaixo (coletar PDF/DOCX, parsear, mapear na grade) são o **fluxo de reserva**: usar só se a CLI falhar ou o capítulo não tiver aulas no catálogo. As regras de conteúdo (transcrição literal, objeto do conhecimento, competências, avaliação, checklist final) continuam valendo para revisar o plano gerado.
+
+## Passo 0: Carregar referências (fluxo de reserva)
 
 Antes de qualquer coisa, ler os arquivos de suporte:
 

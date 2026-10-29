@@ -1,6 +1,6 @@
 ---
 name: semanario
-description: "Gera o semanário escolar em Excel para a Professora Angela do 3º Ano A. Use quando mencionar: semanário, quinzenário, plano de aulas, plano quinzenal, planejamento semanal, gerar semanário, preencher semanário."
+description: "Gera o semanário escolar em Excel para a Professora Angela do 3º Ano A a partir do catálogo de percursos no banco (sem PDF) e registra o progresso dela. Use quando mencionar: semanário, quinzenário, plano de aulas, plano quinzenal, planejamento semanal, gerar semanário, preencher semanário."
 allowed-tools:
   - Read
   - Write
@@ -19,7 +19,24 @@ Gera a planilha Excel do semanário (planejamento quinzenal) para a Professora A
 
 A Professora Angela leciona as matérias "core": Língua Portuguesa, Matemática, Ciências, História, Geografia e Ensino Religioso. As matérias especiais (Ed. Física, Arte, Bilíngue, Cultura Maker, Cultura Geral) são de outros professores.
 
-## Passo 0: Carregar referências
+## Modo padrão: catálogo no banco (sem PDF)
+
+**Desde out/2026 a skill não pede mais PDF/DOCX.** O percurso de todos os capítulos está no SurrealDB e o que a professora faz fica registrado lá. Seguir:
+
+```
+Read ${CLAUDE_PLUGIN_ROOT}/shared/catalogo-db.md
+```
+
+Turma: `turma:angela_3a_2026`. Ciclo resumido:
+
+1. `onde-parei` → confirmar com a professora; o que ela disser vira `registrar --tipo dito_ao_agente` com a frase literal (prevalece sempre).
+2. Perguntar feriados/recessos do período → `turma feriados`.
+3. `quinzena --inicio --fim --saida /tmp/plano.json` → revisar com ela, editar o JSON se pedir.
+4. `excel` → `aprovar --plano /tmp/plano.json` → `enviada` se mandar para a coordenação.
+
+Os Passos abaixo (coletar PDF/DOCX, parsear, mapear na grade) são o **fluxo de reserva**: usar só se a CLI falhar ou o capítulo não tiver aulas no catálogo. As regras de conteúdo (transcrição literal, objeto do conhecimento, competências, avaliação, checklist final) continuam valendo para revisar o plano gerado.
+
+## Passo 0: Carregar referências (fluxo de reserva)
 
 Antes de qualquer coisa, ler os arquivos de suporte:
 

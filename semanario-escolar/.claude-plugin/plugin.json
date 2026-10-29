@@ -1,6 +1,6 @@
 {
   "name": "semanario-escolar",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Gera semanários escolares (planejamento quinzenal) em Excel para professoras do Ensino Fundamental I da escola Adventista. Suporta dois fluxos: Profª Angela (3º Ano A) com input via PDF de percurso pedagógico tabular, e Profª Adriana (5º Ano B) com input via DOCX de plano de aula narrativo capítulo a capítulo. Bancos RAI integrados para 3º e 5º anos.",
   "author": {
     "name": "Gyovana Prado"
